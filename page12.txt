@@ -1,4 +1,10 @@
-﻿Rik
+﻿Legende
+
+Een goede visualisatie die door het team gesmaakt wordt, kan na verloop van tijd complex worden doordat het team er meer en meer informatie op hangt.
+
+Om het verstaanbaar te maken voor nieuwe teamleden en nieuwsgierige collega’s, voorzie je best een legende dat de kleuren, icoontjes en symbolen verklaart.
+
+---
 Legend
 
 A good visualization that a team likes and continues to use over time tends to get more and more complex as the team adds more and more information to it.

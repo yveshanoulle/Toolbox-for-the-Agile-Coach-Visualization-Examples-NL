@@ -1,8 +1,22 @@
-﻿Rik
-Inbox
-Are extra tasks frequently added by creative team members? Do you suffer from tasks introduced into the sprint by people/managers outside the team, asking specific team members for help? Does this sabotage the focus on the sprint goals? Add the Inbox policy! 
+﻿Inbox
 
-Policy: new tasks aren’t added to Planned or Doing, they must be placed in the Inbox. The following standup the whole team decides if the task should be done or not, i.e. if it’s valuable and aligned with the sprint’s goal. If the team decides it shouldn’t be done now, it goes into the product backlog or into the trash bin.
+Worden er regelmatig taken toegevoegd door creatieve teamleden? Wordt je tijdens de sprint geplaagd door taken die toegevoegd worden door personen/managers van buiten het team die bepaalde teamleden om hulp vragen?
+Saboteert dit de focus op het doel van de sprint? Voeg dan de Inbox regel toe.
+
+Regel: nieuwe taken worden niet toegevoegd in Gepland of Bezig maar in de Inbox.  
+In de volgende stand-up zal het volledige team beslissen of de taak uitgevoerd moet worden of niet, m.a.w. als die waardevol is en gealigneerd met de doelstellingen van de sprint.
+Als het team beslist dat de taak nu niet wordt uitgevoerd, dan gaat die in de product backlog of in de papiermand.
+
+Elke Inbox zou leeg moeten zijn aan het einde van de Daily Stand-up.
+
+---
+Inbox
+Are extra tasks frequently added by creative team members? Do you suffer from tasks introduced into the sprint by people/managers outside the team, asking specific team members for help? 
+Does this sabotage the focus on the sprint goals? Add the Inbox policy! 
+
+Policy: new tasks aren’t added to Planned or Doing, they must be placed in the Inbox. 
+The following standup the whole team decides if the task should be done or not, i.e. if it’s valuable and aligned with the sprint’s goal. 
+If the team decides it shouldn’t be done now, it goes into the product backlog or into the trash bin.
 
 Each Inbox should be empty by the end of the Daily Stand-up.
 
