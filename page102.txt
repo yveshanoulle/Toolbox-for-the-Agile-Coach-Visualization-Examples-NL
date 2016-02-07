@@ -1,6 +1,12 @@
 Mertine Middelkoop
-Discipline Track Record (of Discipline prestaties)
-Wanneer gestart wordt met Kanban, is één van de eerste uitdagingen om echte discipline op te brengen voor de WIP (onderhande werk) limieten, zodat deze niet overschreden worden.
+
+Discipline Track Record (of Discipline prestaties)?
+
+Wanneer gestart wordt met Kanban, is één van de eerste uitdagingen om echte discipline op te brengen voor de WIP (werk in uitvoering) limieten, zodat deze niet overschreden worden.
+
+Een makkelijke manier om transparant en eerlijk te zijn over hoe gedisciplineerd je bent als team, is om bij te houden hoe vaak jullie een WIP limiet overschrijden.
+
+Print (of teken) maandelijkse kalenders. Aan het einde van de dagelijkse Stand-up wordt gekeken of een WIP limiet is overschreden. Zo ja, teken dan een dikke lelijke rode stip op de kalender. Zo niet, teken een mooie groene cirkel.
 
 
 
