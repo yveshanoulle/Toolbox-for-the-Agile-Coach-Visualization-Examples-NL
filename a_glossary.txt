@@ -6,3 +6,5 @@ Met als doel consistent te zijn.
 De woorden worden op alfabetische volgorde van de Engels woorden gezet. 
 
 Examples ==> voorbeelden
+policies ==> methodiek
+whiteboard ==> whiteboard
