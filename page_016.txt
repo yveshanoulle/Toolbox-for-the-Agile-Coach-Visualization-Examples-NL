@@ -1,5 +1,3 @@
-Cecil
-
 Smileys van Vertrouwen
 Dit is een krachtig alternatief voor (of aanvulling op) een Sprint Burndown.
 
