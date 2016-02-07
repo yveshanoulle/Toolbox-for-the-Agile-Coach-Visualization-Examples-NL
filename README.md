@@ -16,6 +16,9 @@ idee (van Rik)
 Om het voor reviewers makkelijker te maken, gaan we de Engelse tekst onder de Nederlandse laten staan.
 
 
+Als je een pagian hebt vertaald voeg zeker ook je naam toe aan page122.txt
+
+
 yves
 
 
