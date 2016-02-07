@@ -1,0 +1,20 @@
+hoi <naam>,
+
+Welkom.
+Bedankt om mee te werken.
+
+We werken via github.
+https://github.com/yveshanoulle/Toolbox-for-the-Agile-Coach-Visualization-Examples-NL
+
+Als je een github account doorstuurt naar mij, dan voeg ik je toe aan het project.
+
+We werken openSource community gewijs.
+Maw een soort gecontroleerde chaos en dus anders als teamwerk. 
+
+Alle pagina's zijn als apart bestand opgeladen. 
+We spreken niet vooraf af wie aan welke bestand werkt.
+
+Maar we verwachten wel dat je "luidop" werkt. 
+
+
+
