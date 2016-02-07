@@ -1,4 +1,4 @@
-# Toolbox-for-the-Agile-Coach-Visualization-Examples
+
 Het project voor de nederlandse vertaling.
 
 De bedoeling is om per pagina een vertaling op te laden.
