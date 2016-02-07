@@ -1,3 +1,5 @@
+Mertine Middelkoop
+
 Due dates and boxes
 
 Sometimes there is a strict due date on fixing things, like a bug for a critical patch. To visualize this, write the date of the deadline the task has to be finished by, and draw one box for each day that remains until that date.
