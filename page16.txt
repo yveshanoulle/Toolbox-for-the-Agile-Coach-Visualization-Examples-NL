@@ -1,3 +1,12 @@
+Smileys van Vertrouwen
+Dit is een krachtig alternatief voor (of aanvulling op) een Sprint Burndown.
+
+Aan het einde van elke Daily Stand-up vraagt het team zichzelf; hoeveeel vertrouwen hebben we er in dat we elke User Story af kunnen maken aan het einde van de sprint? Het antwoord wordt gegeven door een Smiley van Vertrouwen.
+
+Het team doorloopt vlotjes elke rij op het bord, of elke User Story en past de kleur van de Smiley aan. Als teamleden het niet met elkaar eens zijn, dan wint de meest pessimistische stem.
+
+
+
 Confidence Smileys
 This is a powerful alternative (or complement) to a Sprint Burndown.
 

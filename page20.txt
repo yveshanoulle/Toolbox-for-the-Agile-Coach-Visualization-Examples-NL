@@ -1,3 +1,5 @@
+
+
 Dependency spider
 
 Draw a spider with your team in the middle. Around your team, draw your dependency sources that sometimes block your progress or force you to wait for some kind of response. On the legs of the spider you continuously add notes describing how you are currently blocked or dependent on that source. 
