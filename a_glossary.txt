@@ -6,6 +6,7 @@ Met als doel consistent te zijn.
 De woorden worden op alfabetische volgorde van de Engels woorden gezet. 
 
 Avatars ==> Avatars
+Bottleneck ==> Knelpunt
 Daily Stand-up ==> Daily Stand-up
 Examples ==> voorbeelden
 policies ==> methodiek
