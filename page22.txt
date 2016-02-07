@@ -1,4 +1,4 @@
-
+﻿Rik
 Absence calendar
 
 This calendar shows when people know they will be away and absent from the office doing something else, avoiding “Does anyone know where Julie is today?” moments. 
