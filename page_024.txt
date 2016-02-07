@@ -1,0 +1,20 @@
+Mertine Middelkoop
+
+Einddatums en vierkantjes
+
+Soms is er een hele strikte einddatum op het realiseren van iets, bijvoorbeeld het oplossen van een bug in een kritiek pad. Om dit te visualiseren schrijf je de datum van de deadline, waarop de taak klaar moet zijn er bij. En teken een vierkantje voor elke dag die over blijft tot die dag.
+
+Tijdens de Daily Stand-up meeting, vink je 1 vierkantje af. Op deze manier kun je makkelijk zien hoeveel dagen nog over zijn en wanneer je in tijdnood komt.
+
+Soms moet een bug onmiddelijk worden opgelost, waardoor je alles uit je handen moet laten vallen waar je mee bezig bent. Maar soms is er ook wat speelruimte zodat je de mogelijkheid hebt om zaken af te handelen voordat je een semi-urgente taak oppakt. Vooral in die situatie zijn einddatums en vierkantjes handig.
+
+---------
+
+Due dates and boxes
+
+Sometimes there is a strict due date on fixing things, like a bug for a critical patch. To visualize this, write the date of the deadline the task has to be finished by, and draw one box for each day that remains until that date.
+
+On the Daily Stand-up meeting, cross one of the boxes. This way you can easily see when time is running out and how many days are left.
+
+Sometimes the bug needs to be dealt with right away forcing you to drop whatever else you are doing. But sometimes there is some leeway, allowing you to wrap things up before addressing the semi-urgent task. That’s when due dates and boxes comes in handy.
+
