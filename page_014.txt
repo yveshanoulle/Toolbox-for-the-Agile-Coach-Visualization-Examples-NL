@@ -1,4 +1,16 @@
-Rik
+2 Avatars: Een grote en een kleine.
+
+Elk teamlid heeft twee avatars. Een grote in kleurendruk en een kleine in zwart-wit.
+
+Ze duiden de taken aan waarop het teamlid op dit moment werkt. De grote geeft aan waar de belangrijkste focus ligt. 
+De kleine zwart-witte geeft aan bij welke taak de persoon meehelpt wanneer de andere geblokkeerd is.
+
+Elk teamlid krijgt slechts twee avatars. 
+Als hij of zij een derde taak wil starten, dan moet die eerst een van de huidige taken afwerken, in de parking hangen, of terughangen van bezig naar gepland. 
+
+Mocht je op dit moment voor elk teamlid slechts één avatar hebben, negeer dan dit voorbeeld, je zit goed :-)
+
+---
 2 Avatars - One big, One small
 
 Each team member has two avatars, one big printed in color and one small printed in grayscale.

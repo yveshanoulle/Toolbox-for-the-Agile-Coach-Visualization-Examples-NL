@@ -1,0 +1,14 @@
+Stippen
+
+Elke dag, zet een nieuwe stip op een taak in uitvoering. Zet een stip ongeacht of iemand er actief aan werkt of niet. Wanneer alles vlot verloopt (gegeven dat de taken voldoende zijn opgesplitst) zou geen enkele taak meer dan een paar stippen moeten krijgen. Als het aantal stippen begint op te lopen, weet je dat er iets mis is en dat het nodig is hierover te praten.
+
+Stippen is een simpele en krachtige manier om problemen en knelpunten bloot te leggen. Hetzelfde principe kan worden toegepast voor andere kolommen, zoals 'Wachten op code review', maar in plaats van stippen teken een lijn of gebruik een andere kleur voor de stippen.
+
+---
+
+Dotting 
+
+Every day, put a new dot on each task in progress. Put a dot regardless if someone is actively working on it or not. When everything is running smoothly (given that the tasks are broken down enough) no single task should get more than a few dots. If the dots starts building up, you know that something is wrong and that you need to talk about it. 
+
+Dotting is a simple and powerful way of revealing problems and bottlenecks. The same principle can be applied for other columns, such as “Waiting for code review”, but instead of dots draw a line or use a different color for the dots.
+
