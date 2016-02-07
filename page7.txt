@@ -1,3 +1,4 @@
+Cecil
 
 General advice
 
@@ -8,6 +9,6 @@ Simple - The wall needs to be easy to update. If you make it too cumbersome to u
 
 Clean – If you put love and care into designing the wall you will probably respect it more and want to continue to keep it nice and tidy. Don’t go bananas, choose components with care.
 
-Core flows – Design for the normal cases and core flows. Choose additional components based on the behaviors you want to change. Treat exceptions like exceptions. 
+Core flows – Design for the normal cases and core flows. Choose additional components based on the behaviors you want to change. Treat exceptions like exceptions.
 
 Evaluate – Your wall is a living thing. Evaluate each component's value and design regularly. Improve, adjust or abandon.
