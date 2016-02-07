@@ -9,9 +9,12 @@ The Dependency Board can help teams to plan, slice features, foresee needed tech
 --------------------------------------
 Afhankelijkheidsbord
 
-Wanneer een team ontdekt dat ze iets nodig hebben van een ander team (om aan hun eigen werk te kunnen starten), voegen ze dit toe aan het gedeelde afhankelijkheidsbord.  "We hebben <rood> nodig voor we kunnen starten met <geel>".  De notities zijn verbonden met een koord.
+Wanneer een team ontdekt dat ze iets nodig hebben van een ander team (om hun eigen werk te kunnen starten), voegen ze dit toe aan het gedeelde afhankelijkheidsbord.  "We hebben <rood> nodig voor we kunnen starten met <geel>".  De notities zijn verbonden met een koord.
 
 Het bord wordt regelmatig nagekeken door de teams, bijvoorbeeld tijdens de Scrum der Scrums.  Eens een rode notitie opgelost is, wordt de gele post-it ook verwijderd.
 
-Het afhankelijkheidsbord kan teams helpen plannen, kenmerken verdelen, voorzien in noodzakelijke technische samenwerking en ook alternatieve manieren om elkaar te helpen vinden.
+Het afhankelijkheidsbord kan teams helpen plannen, kenmerken verdelen, voorzien in noodzakelijke technische samenwerking en is ook een alternatieve manieren om elkaar te helpen vinden.
 
+Update suggestie:
+Eens een rode notitie opgelost is
+Indien een rode notitie opgelost is
