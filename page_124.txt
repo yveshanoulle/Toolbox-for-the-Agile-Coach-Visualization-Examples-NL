@@ -1,3 +1,18 @@
+Dit is een boek vol met visualisatie voorbeelden voor agile teams en agile personen die werken met software development in een agile omgeving.
+
+De voorbeelden zijn niet de beste of meest effectieve manier, het zijn slechts voorbeelden. Wees geïnspireerd. Experimenteer!
+
+Twitter, Facebook, LinkedIn en online reacties:
+“Geweldige tips voor iedere Scrum Master en Agile Coach” – Marcel van Hove
+“Als je het mij vraagt, het beste boek van 2015” - Yves Hanoulle
+“Geweldig visualisatie WIP boek” – Bert Vermijlen
+“Uitstekend, nooit aan gedacht! Bedankt!” – Rolf F. Katzenberger
+“Het is geweldig en gevuld met echt snelle praktische ideeën over hoe zaken te visualiseren – I love it :)” - Samantha Laing
+“Het verbeterde mijn seksleven” - Karel Boekhout
+
+
+
+
 This is a book filled with visualization examples for agile teams and agile people who are working with software development in an agile context.
 
 The examples are not best practice, only examples. Be inspired. Experiment. Have fun!
