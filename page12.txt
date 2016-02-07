@@ -1,3 +1,4 @@
+﻿Rik
 Legend
 
 A good visualization that a team likes and continues to use over time tends to get more and more complex as the team adds more and more information to it.
