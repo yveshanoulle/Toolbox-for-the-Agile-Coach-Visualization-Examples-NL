@@ -1,0 +1,13 @@
+Vraagteken icoon
+
+Soms heb je ergens een vraag over, maar de persoon om de vraag aan te stellen is niet aanwezig en er kan worden gewacht tot de volgende Dagelijkse Stand-up meeting. Markeer dan deze taak met een vraagteken.
+
+Tijdens de Dagelijkse Stand-up meeting scant het team de muur op Vraagtekens, behandelt ze en verwijdert ze één voor één.
+
+--------------------------------------------------------------------------------
+
+Question icon
+
+Sometimes you have a question about something, but the right team member isn’t around, and it’s possible to wait until the team’s next Daily Stand-up meeting. If that’s the case, you mark the task you have a question about with a Question icon.
+
+During the Daily Stand-up meeting the team makes sure to scan the wall for Question icons, addressing them and removing them one by one.

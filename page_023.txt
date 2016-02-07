@@ -1,0 +1,16 @@
+Dagen geblokkeerd (verspild)
+
+Wanneer je Post-it notes gebruikt om een geblokkeerd status aan te geven, dan kan het handig zijn om bij the houden helang deze blokkade reeds loopt.
+
+Tijdens de dagelijkse Stand-up meeting turf de extra dag erbij. Het turven herinnert jou en je team dat er actie moet worden genomen op de belemmering of afhankelijkheid. Het aantal vinkjes laat zien hoeveel dagen verspild zijn met wachten op iets of iemand.
+
+Een groot aantal vinkjes is een uitnodiging tot een serieuze discussie. Waarom lukt het het team niet om de belemmeringen te verwijderen? Hebben ze ondersteuning nodig? Motivatie?
+
+--------------------------------------------------------------------------------
+
+Days blocked (wasted)
+When using Post-it notes to indicate blocked status it can be helpful to keep track of the days since the blocker was introduced.
+
+On the Daily Stand-up meeting, simply put a dash on the blocker note, also known as tally marks. The dashing in itself will remind you and your team to act on the impediment or dependency. And the number of dashes will tell you how many days have been wasted waiting for something or someone.
+
+A large number of dashes is an invitation to a serious discussion. Why does the team fail to resolve its impediments? Do they lack support? Motivation?

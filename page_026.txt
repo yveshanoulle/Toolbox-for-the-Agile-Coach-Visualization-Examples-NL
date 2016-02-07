@@ -1,0 +1,17 @@
+Urgentie strook + beleid
+
+Niet alles kan worden gepland en voorzien tijdens de sprint planning. Om op een gestructureerde en transparante manier om te kunnen gaan met onvoorziene urgente taken voeg een URGENTIE strook toe.
+
+Daar urgente taken nooit gepland zijn, is de “Planned” (Taken Om Te Doen) kolom is niet nodig. Gebruik die ruimte om duidelijk te beschrijven wat het beleid is om een taak als urgent aan te merken. Aan welke criteria moet een taak voldoen om in de urgentie strook te kunnen worden geplaatst? Indien deze criteria niet gelden, dan moet de taak tijdens de volgende sprint planning worden overwogen, of tijdens de volgende Backlog Grooming sessie.
+
+De urgentie strook moet normaal gesproken leeg zijn! Wees je ervan bewust dat iedere keer dat je iets in deze strook plaatst je verspilling creëert door switching en multitasking. Met uitgebreide mogelijkheden komt grote verantwoordelijkheid. Maak geen misbruik van de urgentie strook.
+
+--------------------------------------------------------------------------------
+
+Urgent lane + policy
+
+Not everything can be planned and foreseen during the sprint planning. To deal with urgent unplanned tasks in a structured and transparent way, add an URGENT lane.
+
+Since urgent tasks are never planned, the “Planned” (Tasks Todo) column isn’t needed. Use that area instead to clearly state the policy that describes what counts as an urgent task. Which criteria need to be fulfilled for a task to be allowed to go straight into the urgent lane? If the criteria are not met, the task should be considered during the next sprint planning or the next Backlog Grooming session..
+
+The urgent lane should normally be empty! Remember that every time you introduce something into that lane you create waste in terms of task switching and multitasking. With great powers come great responsibility. Don’t abuse the urgent lane.
