@@ -1,0 +1,48 @@
+Inspiratiebronnen
+
+Voor de meeste voorbeelden in dit boek, is het moeilijk te zeggen waar ik het voor het eerst zag of wat me inspireerde. Maar voor de onderstaande voorbeelden is er een duidelijke bron van inspiratie.
+
+  Aankomst/Vertrek tijdlijn (pagina 90)
+- Yves Hanoulle, http://www.hanoulle.be/
+
+Kerstboom (pagina 101)
+- Mattias Skarin, Crisp
+
+Stand-ups op tijd + highscore (pagina 36)
+- Kristinn Árni Lár Hróbjartsson, Plain Vanilla/QuizUp
+ Dagelijkse Check-in (pagina 100)
+- Rolf F. Katzenberger, Pragmatic Teams 
+Dagelijkse doelen (pagina 95)
+- Sandy Mamoli, Nomad8
+Afhankelijkheidsbord (pagina 103)
+- LEGO (through Henrik Kniberg, Crisp)
+
+Puntjes  (pagina 21) - Team HW Partners, Spotify
+ Guide Board (pagina 99)
+- Matti Schneider, http://mattischneider.fr
+
+
+
+
+Sources of inspiration
+
+ For most of the examples in this book, it’s hard for me to pinpoint where I saw it first or what inspired me. But for the examples below there’s a clear source of inspiration.
+
+  Arrival/Departure Timeline (page 90)
+- Yves Hanoulle, http://www.hanoulle.be/
+
+Christmas Tree (page 101)
+- Mattias Skarin, Crisp
+
+Stand-ups on time + high score (page 36)
+- Kristinn Árni Lár Hróbjartsson, Plain Vanilla/QuizUp
+ Daily Check-in (page 100)
+- Rolf F. Katzenberger, Pragmatic Teams 
+Daily Goals (page 95)
+- Sandy Mamoli, Nomad8
+ Dependency Board (page 103)
+- LEGO (through Henrik Kniberg, Crisp)
+
+Dotting  (page 21) - Team HW Partners, Spotify
+ Guide Board (page 99)
+- Matti Schneider, http://mattischneider.fr
