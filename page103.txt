@@ -5,3 +5,13 @@ When a team discovers that they need something from another team (in order to be
 The board is regularly reviewed by the teams, for instance during the Scrum of Scrums. Once a red note has been resolved the connected yellow Post-its is removed as well.
 
 The Dependency Board can help teams to plan, slice features, foresee needed technical collaboration, as well as finding alternative ways of helping each other.
+
+--------------------------------------
+Afhankelijkheidsbord
+
+Wanneer een team ontdekt dat ze iets nodig hebben van een ander team (om aan hun eigen werk te kunnen starten), voegen ze dit toe aan het gedeelde afhankelijkheidsbord.  "We hebben <rood> nodig voor we kunnen starten met <geel>".  De notities zijn verbonden met een koord.
+
+Het bord wordt regelmatig nagekeken door de teams, bijvoorbeeld tijdens de Scrum der Scrums.  Eens een rode notitie opgelost is, wordt de gele post-it ook verwijderd.
+
+Het afhankelijkheidsbord kan teams helpen plannen, kenmerken verdelen, voorzien in noodzakelijke technische samenwerking en ook alternatieve manieren om elkaar te helpen vinden.
+
