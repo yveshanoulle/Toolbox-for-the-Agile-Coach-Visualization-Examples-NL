@@ -1,0 +1,18 @@
+Voortgangstaart
+
+Heb je je roadmap gevisualiseerd op je muur en wil je de voortgang visualiseren van Epics gerelateerd aan een specifieke release? Een ruwe schatting is meestal genoeg, bijvoorbeeld een voortgangstaart.
+
+Teken een cirkel op de Post-it en vraag "Hoe veel is gedaan?". Vul de taart op basis van het antwoord. Een lege cirkel zou "nog niet begonnen" betekenen. Een volle cirkel "Klaar om te leveren".
+
+Dit start natuurlijk discussies over wat er voor nodig voor een volle cirkel, hetgeen een goede zaak is! Wanneer nodig: verduidelijk acceptatiecriteria en vervang eventeel de Epic door opgesplitste User Stories.
+
+---
+
+Progress Pie
+
+Do you have your roadmap visualized on your wall and would like to visualize progress of Epics related to a specific release? Some rough estimate is usually enough, for example a progress pie.
+
+Draw a circle on the Post-it and ask “How much is done?”. Fill in the pie according to the answer. An empty circle would mean “not begun”. A full circle “Ready to ship”.
+
+This of course triggers discussions about what is needed for a full circle, which is a good thing! When needed: clarify acceptance criteria and maybe replace the Epic with sliced User Stories.
+
