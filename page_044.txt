@@ -1,0 +1,21 @@
+Laat = Taart
+
+Teken een cirkel. Verdeel deze in 8 punten. Dit representeert een taart. Als iemand te laat is bij de Daily Stand-up noteer dan de naam in één van de taartpunten.
+
+Als de taartpunten allemaal vol zijn, tel dan om de "winnaar" te bepalen. De winnaar bakt een taart waar het team de volgende dag van kan genieten.
+
+—
+
+Een alternatief is om een lijst met namen van teamleden te maken. Als iemand te laat is krijgt hij of zij een streepje achter de naam. Drie of meer streepjes betekent taart.
+ Als je niet van taart houdt, of het team te dik wordt van deze regel, probeer dan wat anders.
+ 
+Late = Cake
+
+Draw a circle. Slice it up in 8 slices. This represents a cake. When someone arrives late to the Daily Stand-up write that person’s name in one of the slices.
+
+When the cake circle is full, count the “winner”. The winner bakes a cake that the team enjoy the next day.
+
+—
+
+An alternative for this is to write a list of the team members. When someone is late, he or she gets a tick. Three or more ticks mean cake.
+ If you don’t like cake, or this policy makes the team fat, try another policy.
