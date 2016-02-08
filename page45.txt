@@ -1,5 +1,17 @@
 Chris
 
+Taakgrootte < 1 dag
+
+Tijdens het “taken” (dwz het afpellen van het werk wat gedurende de sprint dient te gebeuren) stop je niet eerder met splitsen tot elke taak afgerond kan worden binnen een dag.
+
+Deze afspraak zorgt ervoor dat je voortgang en bottlenecks sneller ontdekt worden. Het leidt er ook toe dat er meer wordt samengewerkt tijdens de planning sessies.
+
+Als je nu elke dag dat een taak op “in progress” hangt een stipje op de task zet valt het meteen op als er een taak “vast” zit. Immers een taak kan niet meer dan een stipje verzamelen.
+
+Ook kun je de sprint burndown doen in taken, dit gaat sneller dan uren en geeft een goede indicatie of alle taken af komen binnen de sprint.
+
+—
+
 Task size < 1 day
 
 When tasking (i.e. breaking down the work that needs to be performed to complete a User Story) don’t stop splitting the tasks until each task can be completed within a day.
