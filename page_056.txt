@@ -1,0 +1,19 @@
+Astrid
+
+WIP limieten
+
+In het bovenstaande voorbeeld heeft een team de Work In Progress (WIP) gelimiteerd in meerdere dimensies. Ze werken maar aan drie stories tegelijkertijd. Wanneer ze een vierde story willen oppakken moet er eerst een afgerond worden. Wanneer "Doing" + "Ready for Test" vol zijn (gezamenlijke limiet van 4) dan mag er geen vijfde taak gestart worden. Het team helpt dan eerst met testen om zo werk verder af te krijgen. En zo voorts, en zo voorts....
+
+Schrijf de WIP limiet op een Post-it omdat je deze in de loop van de tijd zult wijzigen om een goede balans te vinden.
+
+Het limiteren van WIP is een kern van Lean en iets dat veel succesvolle teams doen. Lean uitleggen, of toelichten waarom het goed is om WIP te limiteren is een goed idee, maar gaat veel verder dan de scope van dit boek.
+
+
+Wip Limits
+
+In the example above the team has a limited Work In Progress (WIP) in several dimensions. They only work on a maximum of three stories at any given time. If they want to start a fourth, they first need to finish any of the ongoing. If “Doing” + “Ready for Test” are full (joint limit of 4) they aren’t allowed to start on a fifth task. They first need to help out testing, moving tasks down the board. And so on.
+
+Put the WIP Limits on Post-its since you probably will change them over time as you try to find a good balance. 
+
+Limiting WIP is at the core of Lean and something many successful teams do. Explaining Lean, or why limiting WIP is a great idea, is beyond the scope of this book.
+
