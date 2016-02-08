@@ -1,0 +1,17 @@
+Maak wachtrijen zichtbaar
+
+Wachtrijen zijn bekend als een van de zeven verspillingen in softwareontwikkeling. Om knelpunten in een team duidelijk te krijgen is het slim om interne wachtrijen zichtbaar te maken. Dit kan eenvoudig gedaan worden door voor elke taak onderscheid te maken in wanneer er daadwerkelijk aan gewerkt wordt of wanneer er op gewacht wordt. 
+
+Bijvoorbeeld: in plaats van een "Test" kolom splits je deze in een kolom "Klaar voor test" en een kolom "Bezig met testen", of splits een "Review" kolom in "Klaar voor review" en "Bezig met reviewen". 
+
+Wanneer taken vast komen te zitten in een van deze interne wachtrijen is er een knelpunt gevonden die in het team kan worden besproken.  
+
+----
+
+Visualize Internal Queues
+
+One of the seven wastes of software development is queues. One approach to reveal bottlenecks within a team is to visualize internal queues. This can be done by making it visual when tasks are actually being worked on, or waiting to be worked on.
+
+For example: instead of just having a “Test” column, split the column into “Ready for test” and “Testing”, or split “Review” into “Waiting for review” and “Reviewing”.
+
+If tasks get congested in any of these internal queues, you’ve found your bottleneck and can start discussing how to address this as a team.
