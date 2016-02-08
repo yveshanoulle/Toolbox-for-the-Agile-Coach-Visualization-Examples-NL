@@ -1,3 +1,5 @@
+Chris
+
 Late = Cake
 
 Draw a circle. Slice it up in 8 slices. This represents a cake. When someone arrives late to the Daily Stand-up write that person’s name in one of the slices.
