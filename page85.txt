@@ -1,3 +1,7 @@
+Rody Middelkoop
+
+----
+
 Visualize Internal Queues
 
 One of the seven wastes of software development is queues. One approach to reveal bottlenecks within a team is to visualize internal queues. This can be done by making it visual when tasks are actually being worked on, or waiting to be worked on.
