@@ -1,0 +1,24 @@
+Bianca Griffioen
+
+Parkeerplaats met status
+
+Wanneer je een volledige story wilt parkeren en de bijbehorende tickets naar een Parkeerplaats verplaatst, is het wellicht een goed idee om de status van de taken te bewaren. 
+
+Dit neemt meer ruimte in beslag, maar dat kan ook worden gebruikt als WIP-limit. Met andere woorden, op enig moment in de tijd mag er nooit meer dan één story worden geparkeerd. 
+
+Vergeet niet te noteren wanneer de story wordt geparkeerd.
+
+Deze aanpak is vooral handig wanneer zich iets urgents voor doet gedurende de sprint waardoor de prioriteiten tijdelijk worden aangepast. 
+
+
+
+Parking lot with states
+
+When you pause a full story and move the associated tickets to a Parking Lot it might be a good idea to preserve the states of the tasks.
+
+This takes more space, but that could be used as a WIP-limit, i.e. no more than one story may be paused at any single point in time. 
+
+Don’t forget to write down the date when the story became paused.
+
+This approach can be useful when something urgent arrives mid-sprint temporarily overriding the priorities.
+
