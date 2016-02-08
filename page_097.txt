@@ -1,3 +1,11 @@
+Geinvesteerde tijd
+
+Wilt u een lichte benadering van je gespendeerde tijd tonen aan je stakeholders?
+
+Aan het einde van elke week, sprint of maand, maak je een ruwe schatting van de gespendeerde tijd. Elk lid tekent 10 staven. Elke staaf vertegenwoordigd 10% van de geinvesteerde tijd. Deze tijd wordt onderverdeeld in categorieën zoals; toekomstige ontwikkelingen, bug fixes en onderhoud, technische investeringen en snelle/paniek oplossingen.
+
+------------------------
+
 Time Invested
 
 Would you like a lightweight approach for presenting to your stakeholders how you have been investing your time?
