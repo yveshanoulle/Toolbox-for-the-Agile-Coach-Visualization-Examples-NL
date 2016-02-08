@@ -17,10 +17,13 @@ Pair programming ==> Pair programming
 Pairing ==> Samenwerken?
 Policies ==> Methodiek
 Queue ==> Wachtrij
+Story ==> Story
+Ticket ==> Ticket
 Urgent lane ==> Urgent-lane suggestie Astrid = "Prioriteits rij"
 Wall ==> Sprint bord?
 Waste ==> Verspilling
 Whiteboard ==> Whiteboard
+WIP-limit ==> WIP-limit
 
 
 
