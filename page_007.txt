@@ -1,0 +1,26 @@
+Algemeen advies
+
+Toegankelijkheid - Plaats de muur met visualisaties op de plek waar je team werkt. Je wilt dat iedereen het gemakkelijk kan zien.
+
+Eenvoudig - Het moet eenvoudig zijn om de muur aan te passen. Wanneer het te bewerkelijk is om hem aan te passen, dan zal de muur waarschijnlijk in kwaliteit achteruit gaan. Wanneer je vermoed dat hij niet actueel is, dan zul je hem niet langer vertrouwen. En wanneer je hem niet vertrouwt, dan pas je hem nog minder snel aan.
+
+Helder - Wanneer je de muur met zorg en liefde opzet, dan zul je hem meer respecteren en mooi en netjes willen houden. Ga niet overboord: kies de onderdelen met zorg.
+
+Primaire flows - Ontwerp voor de standaard zaken en de primaire flows. Kies extra componenten gebaseerd op de gedragingen die je wilt veranderen. Behandel uitzonderingen als uitzonderingen.
+
+Evalueer - Je muur is een levend iets. Evalueer ieder de waarde van ieder component en ontwerp regelmatig, Verbeter, pas aan en verwijder.
+
+--------------------------------------------------------------------------------
+
+General advice
+
+Accessible – Position your wall with visualizations in the area where the team sits. You want it easily visible for everyone in the room.
+
+
+Simple - The wall needs to be easy to update. If you make it too cumbersome to update, the wall will probably deteriorate. If you suspect that it’s not up to date, you will stop trusting it. If you don’t trust it, you will update it even less frequently.
+
+Clean – If you put love and care into designing the wall you will probably respect it more and want to continue to keep it nice and tidy. Don’t go bananas, choose components with care.
+
+Core flows – Design for the normal cases and core flows. Choose additional components based on the behaviors you want to change. Treat exceptions like exceptions.
+
+Evaluate – Your wall is a living thing. Evaluate each component's value and design regularly. Improve, adjust or abandon.
