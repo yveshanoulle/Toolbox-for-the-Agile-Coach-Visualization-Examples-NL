@@ -1,5 +1,6 @@
 Micha
 
+
 Rotating facilitator’s hat
 
 Does the Scrum Master really need to be the facilitator of every Daily Stand-up? Of course not. Why not rotate the facilitation. 
