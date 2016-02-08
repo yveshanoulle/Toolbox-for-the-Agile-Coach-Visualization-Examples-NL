@@ -1,5 +1,15 @@
 Chris
 
+Improvement Laan
+
+Voeg een improvement laan toe aan je scrum board om de improvements die uit een retrospectieve komen een natuurlijk onderdeel te laten worden van je planning en daily meetings.
+
+Sommige teams voegen een improvement laan toe onderaan het scrum board en volgen de afspraak dat als je geblokkeerd bent in je primaire taak je aan improvements gaat werken totdat je gedeblokkeerd wordt of dat je een teamlid kunt helpen.
+
+Andere teams plaatsen de improvement laan aan de bovenzijde van het scrumboard. Daarmee geven ze een duidelijk signaal af dat verbeteringen de hoogste prioriteit hebben. (direct na productie verstoringen)
+
+-
+
 Improvement Lane
 
 To make your retrospective improvement actions a natural part of your planning and Daily Stand-ups, add an Improvement Lane to the board.
