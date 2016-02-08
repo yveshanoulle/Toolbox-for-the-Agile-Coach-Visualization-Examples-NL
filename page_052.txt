@@ -1,0 +1,17 @@
+Astrid
+
+Story Point lineaal
+
+Om als team beter te worden in het relatief schatten van User Stories creeer een Story Point lineaal.
+
+Aan het eind van elke sprint (bijvoorbeeld gedurende de Sprint Review) vraag jezelf voor elke afgeronde story: Terugkijkend met wat we nu weten, hoeveel Story Points had deze eigenlijk moeten zijn? Plaats de User Story op die plaats op de lineaal.
+
+Wanneer nieuwe stories geschat moeten worden (met bijvoorbeeld Planning Poker) vergelijk de nieuwe stories met de stories die al op de lineaal zitten. Op regelmatige basis re-organiseer je de lineaal, bewaar de goede voorbeelden en verwijder gelijke User Stories zodat hij overzichtelijk blijft.
+
+Story Point Ruler
+
+To get better at doing relative Story Point estimation as a team, create a Story Point Ruler. 
+
+By the end of every sprint (for example during the Sprint Review meeting) ask yourselves, for every story completed: In hindsight, given what we know now - how many Story Points should this user story have been? Put the User Story on that place on the ruler.
+
+When it’s time to estimate new stories (with for example Poker Planning), simply compare that story to the stories already estimated on the ruler. As time goes by, clean the ruler so that it doesn’t become too crowded. Keep the good examples and remove similar User Stories.
