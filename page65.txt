@@ -1,3 +1,5 @@
+﻿JanB
+
 Ready for demo
 
 Teams that Kanban should also of course demo as well. If your team hasn’t scheduled a recurring demo, perhaps a Ready for demo area can help.
