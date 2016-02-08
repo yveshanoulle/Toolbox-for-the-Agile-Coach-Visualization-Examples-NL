@@ -11,6 +11,7 @@ Bottleneck ==> Knelpunt
 Daily Stand-up ==> Daily Stand-up
 Examples ==> voorbeelden
 Icon ==> Icoon
+Pair programming ==> Pair programming
 policies ==> methodiek
 whiteboard ==> whiteboard
 
