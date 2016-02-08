@@ -17,7 +17,8 @@ Pair programming ==> Pair programming
 Pairing ==> Samenwerken?
 Policies ==> Methodiek
 Queue ==> Wachtrij
-Urgent lane ==> Urgent-lane
+Urgent lane ==> Urgent-lane suggestie Astrid = "Prioriteits rij"
+Wall ==> Sprint bord?
 Waste ==> Verspilling
 Whiteboard ==> Whiteboard
 
