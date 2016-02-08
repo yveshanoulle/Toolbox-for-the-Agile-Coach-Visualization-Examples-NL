@@ -1,12 +1,12 @@
 Afterparty
 
-Wanneer mensen verzanden in discussies over details tijdens de Daily Stand-up, parkeer ze dan en voeg een onderwerp toe aan "Meteen hierna" lijst. De regel van zijn dat als iemand een T-handsignaal geeft, de discussie wordt verplaatst naar na de Daily Stand-up.
+Wanneer mensen verzanden in discussies over details tijdens de Daily Stand-up, parkeer ze dan en voeg een onderwerp toe aan "Meteen hierna" lijst. De regel kan zijn dat als iemand een T-handsignaal geeft, de discussie wordt verplaatst naar na de Daily Stand-up.
 
-Zodra de Daily Stand-up over is kunnen diegenen waarvoor het nodig is (of die het willen) blijven en het hebbben over de genoteerde onderwerpen. Sommigen noemen dit de "Afterparty".
+Zodra de Daily Stand-up over is kunnen diegenen waarvoor het nodig is (of die belangstelling hebben) blijven en de genoteerde onderwerpen bespreken. Sommigen noemen dit de "Afterparty".
 
-Zodra een onderwep is besproken, haal het dan door. Na het behandelen van alle onderwerpen de lijst weer worden leeggemaakt zodat deze klaar is voor de volgende Daily Stand-up.
+Zodra een onderwep is besproken, streep het dan door. Na het behandelen van alle onderwerpen kan de lijst weer worden leeggemaakt zodat deze klaar is voor de volgende Daily Stand-up.
 
-Voor sommige teams is dit een geweldige manier om de Daily Stand-ups koteren meer concreet te maken.
+Voor sommige teams is dit een geweldige manier om de Daily Stand-ups korter en meer concreet te maken.
 
 After party
 
