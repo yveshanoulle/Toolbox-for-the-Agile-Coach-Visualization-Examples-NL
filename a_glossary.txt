@@ -8,11 +8,14 @@ De woorden worden op alfabetische volgorde van de Engels woorden gezet.
 After party ==> Afterparty
 Avatars ==> Avatars
 Bottleneck ==> Knelpunt
+Bug ==> Bug
 Daily Stand-up ==> Daily Stand-up
 Examples ==> voorbeelden
+High score ==> high-score
 Icon ==> Icoon
 Pair programming ==> Pair programming
 policies ==> methodiek
+Urgent lane ==> Urgent-lane
 whiteboard ==> whiteboard
 
 
