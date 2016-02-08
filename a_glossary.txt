@@ -20,6 +20,7 @@ Queue ==> Wachtrij
 Story ==> Story
 Ticket ==> Ticket
 Urgent lane ==> Urgent-lane suggestie Astrid = "Prioriteits rij"
+User Story lane ==> User Story kolom
 Visualization ==> Visualisatie
 Wall ==> Sprint bord?
 Waste ==> Verspilling
