@@ -9,6 +9,7 @@ Avatars ==> Avatars
 Bottleneck ==> Knelpunt
 Daily Stand-up ==> Daily Stand-up
 Examples ==> voorbeelden
+Icon ==> Icoon
 policies ==> methodiek
 whiteboard ==> whiteboard
 
