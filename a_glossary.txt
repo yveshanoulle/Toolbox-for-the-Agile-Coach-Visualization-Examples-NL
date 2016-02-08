@@ -25,7 +25,7 @@ Ticket ==> Ticket
 Urgent lane ==> Urgent-lane suggestie Astrid = "Prioriteits rij" suggestie Rik: Prioritaire Strook?
 User Story lane ==> User Story kolom
 Visualization ==> Visualisatie
-Wall ==> Sprint bord?
+Wall ==> Sprint bord? Muur?
 Waste ==> Verspilling
 Whiteboard ==> Whiteboard
 WIP-limit ==> WIP-limit
