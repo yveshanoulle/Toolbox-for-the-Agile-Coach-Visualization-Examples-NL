@@ -10,13 +10,16 @@ Avatars ==> Avatars
 Bottleneck ==> Knelpunt
 Bug ==> Bug
 Daily Stand-up ==> Daily Stand-up
-Examples ==> voorbeelden
-High score ==> high-score
+Examples ==> Voorbeelden
+High score ==> High-score
 Icon ==> Icoon
 Pair programming ==> Pair programming
-policies ==> methodiek
+Pairing ==> Samenwerken?
+Policies ==> Methodiek
+Queue ==> Wachtrij
 Urgent lane ==> Urgent-lane
-whiteboard ==> whiteboard
+Waste ==> Verspilling
+Whiteboard ==> Whiteboard
 
 
 
