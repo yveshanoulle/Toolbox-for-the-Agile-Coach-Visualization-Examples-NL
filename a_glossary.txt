@@ -17,7 +17,7 @@ Icon ==> Icoon
 Lane ==> Strook (zie ook Urgent lane)
 Pair programming ==> Pair programming
 Pairing ==> Samenwerken?
-Policies ==> Methodiek
+Policies ==> Methodiek suggestie Yves = afspraken
 Queue ==> Wachtrij
 Retrospective ==> retrospectieve
 Story ==> Story
