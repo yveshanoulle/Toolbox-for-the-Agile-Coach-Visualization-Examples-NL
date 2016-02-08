@@ -1,5 +1,12 @@
-﻿Rik
+﻿Afhankelijkheid spin
 
+Teken een spin diagram met je team in het centrum. Rond je team teken je de afhankelijkheden die je vorderingen blokkeren of je verplichten te wachten op een antwoord. Op de poten van de spin leg je telkens een nota die beschrijft hoe je geblokkeerd, of afhankelijk bent van die bron.
+
+Wanneer de blokkering is opgelost, verplaats je het ticket naar de "opgelost" kolom. Wanneer het tijd is voor de retrospectieve verzamel je Post-its van de grootste bronnen van blokkeringen en analyseer wat je kan doen om de pijn en frequentie van die afhankelijkheden te verminderen. Om tegen te gaan dat je sub-optimaliseert voor je eigen team betrek je de andere teams of personen in de discussie.
+
+Dit is ook een fantastische hulp voor cross-bedrijf (en release train) retrospectieven.
+
+---
 Dependency spider
 
 Draw a spider with your team in the middle. Around your team, draw your dependency sources that sometimes block your progress or force you to wait for some kind of response. On the legs of the spider you continuously add notes describing how you are currently blocked or dependent on that source. 

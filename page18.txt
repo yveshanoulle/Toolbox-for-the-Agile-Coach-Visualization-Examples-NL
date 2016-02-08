@@ -1,4 +1,12 @@
-﻿Rik
+﻿Strook prioriteit
+
+Dit is meer een afspraak dan een visualisatie tip
+
+Om als team efficiënter te werken en om te streven naar het afwerken van taken eerder dan nieuwe te starten, spreek je af samen te werken aan de taken in volgorde van prioriteit. Zet de taken met de hoogste prioriteit bovenaan en rangschik de rest volgens prioriteit.
+
+Als een taak afgewerkt is, verplaats ze naar de "afgewerkt/klaar voor demo" kolom. Daardoor krijg je een lege strook. Sommige teams verplaatsen dan alle post-its een strook hoger om de lege ruimte in te vullen.
+
+---
 Lane priority
 
 This is more of a process/working agreement tip than a visualization tip.

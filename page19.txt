@@ -1,4 +1,12 @@
-Rik
+Blocker nota
+
+Als om welke reden ook vast zit bij het werken aan een taak waardoor je niet verder kunt, zet dan een rode 'blocker' nota bovenaan die taak. Dit maakt aan iedereen duidelijk waarom dit is en werkt ook als een herinnering om het op te volgen.
+
+Overloop gedurende de Daily Stand-up elke blocker en bespreek hoe ze aan te pakken en op te lossen.
+
+In de omschrijving staat duidelijk waarom je geblokkeerd bent, op wie je wacht (en waarom), of wat het probleem is. Om het nog duidelijker te maken zet je je naam en datum waarop je geblokkeerd was in de hoek van de Post-it.
+
+---
 Blocker notes
 
 If you for some reason become blocked while working on a task, preventing you from moving forward - add a red blocker note on top of that task. This makes the reason known for everyone, and also works as a follow-up reminder. 
