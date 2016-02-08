@@ -3,7 +3,7 @@ Buis vragen
 Het laten vallen van ballen in een buis is een leuke manier om data te visualiseren. De buizen kunnen gelabeld zijn. De kleuren van de ballen kunnen gebruikt worden met ieder een andere betekenis.
 
 De mogelijkheden zijn eindeloos, maar hier wat voorbeelden:
-Statistics: Waar zijn de bugs afkomstig uit? Zodra een bug is opgelost, laat je een bal vallen in de in overeenkomstige buis.
+Statistics: Waar zijn de bugs uit afkomstig? Zodra een bug is opgelost, laat je een bal vallen in de overeenkomstige buis.
 Data: Elke buis is een sprint. Iedere bal een Story Point.
 Vraag: Iedere buis staat gelijk aan een vraag. Groene ballen voor JA, rode ballen voor NEE.
 Stemmen: “Refactor” - welke class moet aangepakt worden voor de volgende hack aanval?
