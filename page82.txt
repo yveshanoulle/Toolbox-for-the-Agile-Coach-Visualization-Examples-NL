@@ -1,6 +1,5 @@
-Sieuwert
-Activity Dice
+Activiteiten-dobbelsteen
 
-When you start your Daily Stand-up, roll the Team Activity Dice. The dice will tell you what you should do together as a team today.
+Rol bij het begin van de dagelijkse standup met de team-activiteiten-dobbelsteen. De dobbelsteen geeft aan wat je die dag samen moet gaan doen. 
 
-It could be having a joint lunch, clean up the team area and make it nicer, make a surprise visit to another team, go outside for a walk, organize a Rock-Paper-Scissor team battle tournament, do 100 push-ups together, make a new dice, afternoon break with ice cream, meditate together for 10 minutes, draw and discuss a Jimmy Card, delete old and obsolete bugs in your digital planning tool, or anything else you fancy doing as a team.
+Dit kan een gezamenlijke lunch zijn, het opruimen en verbeteren van de teamruimte, het bezoeken van een ander team, naar buiten gaan voor een wandeling, een papier-schaar-rots-wedstrijd, 100 gezamenlijke push-ups, het maken van een nieuwe dobbelsteen, een middagpauze met ijsjes, samen 10 minuten mediteren, het trekken en bespreken van een Jimmy-card, het verwijderen van oude bugs uit het bug tracking systeem, of iets ander dat je als team graag wilt doen. 
