@@ -1,6 +1,6 @@
 Laat = Taart
 
-Teken een cirkel. Verdeel deze in 8 punten. Dit representeert een taart. Als iemand te laat is bij de Daily Stand-up noteer dan de naam in één van de taartpunten.
+Teken een cirkel. Verdeel deze in 8 punten. Dit representeert een taart. Als iemand te laat is bij de Daily Stand-up, noteer dan de naam in één van de taartpunten.
 
 Als de taartpunten allemaal vol zijn, tel dan om de "winnaar" te bepalen. De winnaar bakt een taart waar het team de volgende dag van kan genieten.
 
