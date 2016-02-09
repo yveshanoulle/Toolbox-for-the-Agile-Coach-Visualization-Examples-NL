@@ -1,4 +1,4 @@
-Prestatieposters
+Prestatieposters 
 
 Maak aan het eind van iedere sprint (of elke tweede week als je Kanban gebruikt) een samenvatting van de prestaties van je team. Het opbouwen van trots en prestaties vieren is net zo belangrijk als vooruit plannen en het concentreren op de volgende uitdaging.
 
