@@ -1,6 +1,6 @@
 Visualiseer je workflow
 
-Gebruik rechthoeken, lijnen, rijen en kolommen om je workflow te beschrijven en welke toestand een transitie bewerkstelligt. Gebruik Post-its om werk dat moet worden gedaan te beschrijven in je workflow. Er is geen goed, of fout. Blijf experimenteren totdat je een goede representatie vindt van je workflow. Een inzicht dat je helpt je voortgang te zien, samen te werken, plannen, voorspellingen te doen en dat bottlenecks bloot legt.
+Gebruik rechthoeken, lijnen, rijen en kolommen om je workflow te beschrijven en welke toestand een transitie bewerkstelligt. Gebruik Post-its om werk dat moet worden gedaan te beschrijven in je workflow. Er is geen goed of fout. Blijf experimenteren totdat je een goede representatie vindt van je workflow. Een overzicht dat je helpt je voortgang te zien, samen te werken, plannen, voorspellingen te doen en dat bottlenecks bloot legt.
 
 --------------------------------------------------------------------------------
 
