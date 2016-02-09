@@ -1,10 +1,10 @@
 Mertine Middelkoop
 
-Nieuws van vandaag (of Headlines vandaag)
+Nieuws van de Dag
 
 Veel teams starten of eindigen hun Daily Stand-up met een moment om algemene informatie te delen.
 
-Om de kans kleiner te maken dat je iets belangrijks vergeet te delen met je team, voeg je een nieuwsbericht titel toe aan het "Nieuws van vandaag" gebied op het whiteboard, zodra het onderwerp in je opkomt.
+Om de kans kleiner te maken dat je iets belangrijks vergeet te delen met je team, voeg je een nieuwsberichttitel toe aan het "Nieuws van de Dag"-gebied op het whiteboard, zodra het onderwerp in je opkomt.
 
 Wanneer het nieuws of de informatie met elkaar is gedeeld, wordt deze gewist op het whiteboard, zodat er weer nieuwe berichten voor de volgende dag kunnen worden toegevoegd.
 
