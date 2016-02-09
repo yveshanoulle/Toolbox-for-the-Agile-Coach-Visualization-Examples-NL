@@ -1,12 +1,12 @@
 Bianca Griffioen
 
-Verbeter-lane
+Verbeterstrook
 
-Om verbeterpunten uit je retrospectives een natuurlijk onderdeel van je planning en Daily Stand-up te maken, voeg je een Verbeter-lane toe aan je bord.
+Om verbeterpunten uit je retrospectives een natuurlijk onderdeel van je planning en Daily Stand-up te maken, voeg je een Verbeterstrook toe aan je bord.
 
-Sommige teams hebben een Verbeter-lane aan de onderkant van het bord. Zij spreken af dat wanneer je niet verder kunt met je primaire werk je een verbeterpunt oppakt totdat je blokkade is opgeheven, of totdat iemand anders je hulp nodig heeft.
+Sommige teams hebben een Verbeterstrook aan de onderkant van het bord. Zij spreken af dat wanneer je niet verder kunt met je primaire werk, je een verbeterpunt oppakt totdat je blokkade is opgeheven of totdat iemand anders je hulp nodig heeft.
 
-Andere teams hebben een Verbeer-lane aan de bovenkant. Zij geven het signaal dat verbeterpunten het meest belangrijk zijn om als eerste af te ronden (na de urgente productie problemen).
+Andere teams hebben een Verbeterstrook aan de bovenkant. Zij geven het signaal dat verbeterpunten het meest belangrijk zijn om als eerste af te ronden (na de urgente productieproblemen).
 
 
 
