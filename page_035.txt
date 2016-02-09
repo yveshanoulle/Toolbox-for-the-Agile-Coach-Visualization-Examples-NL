@@ -1,6 +1,6 @@
 Daily Stand-up timer
 
-Een team waar ik mee werkte nam zich regelmatig voor om de Daily Stand-up ook echt te beperken tot 15 minuten, maar dat lukte ze nooit. Op een dag heb ik mijn tablet op een kleine tafel gezet (die toevallig net voor de muur stond) en startte daarop een timer, zonder uit te leggen waarom.
+Een team waar ik mee werkte nam zich regelmatig voor om de Daily Stand-up ook echt te beperken tot 15 minuten, maar dat lukte ze nooit. Op een dag heb ik mijn tablet op een kleine tafel gezet (die toevallig net voor de muur stond) en startte daarop een timer zonder uit te leggen waarom.
 
 Deze simpele toevoeging zorgde dat iedereen net iets meer de aandacht erbij had en meer lette op het vermijden van te veel details. En ja hoor, alsof de tablet superkrachten had duurden de Daily Stand-ups daarna meestal ruim minder dan 15 minuten.
 
