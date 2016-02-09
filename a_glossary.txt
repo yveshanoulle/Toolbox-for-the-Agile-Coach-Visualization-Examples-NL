@@ -30,7 +30,7 @@ Wall ==> Sprint bord? Muur? /Muur? Sprint bord wordt aangeduid als "board", tenm
 Waste ==> Verspilling
 Whiteboard ==> Whiteboard
 WIP-limit ==> WIP-limit
-
+Working agreement ==> werkafspraken
 
 
 
