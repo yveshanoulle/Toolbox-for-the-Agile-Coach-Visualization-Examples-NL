@@ -7,7 +7,7 @@ Regel: nieuwe taken worden niet toegevoegd in Gepland of Bezig maar in de Inbox.
 In de volgende stand-up zal het volledige team beslissen of de taak uitgevoerd moet worden of niet, d.w.z. als deze waardevol is en in lijn met de doelstellingen van de sprint.
 Wanneer het team beslist dat de taak nu niet wordt uitgevoerd, dan gaat die naar de product backlog of in de prullenbak.
 
-Elke Inbox zou leeg moeten zijn aan het einde van de dagelijkse stand-up.
+Elke Inbox zou leeg moeten zijn aan het einde van de Daily Stand-up.
 
 ---
 Inbox
