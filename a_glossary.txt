@@ -29,7 +29,7 @@ Visualization ==> Visualisatie
 Wall ==> Sprint bord? Muur? /Muur? Sprint bord wordt aangeduid als "board", tenminste in mijn stukje tekst./
 Waste ==> Verspilling
 Whiteboard ==> Whiteboard
-WIP-limit ==> WIP-limit
+WIP-limit ==> WIP-limiet
 Working agreement ==> werkafspraken
 
 
