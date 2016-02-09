@@ -1,12 +1,12 @@
 Astrid
 
-Story Point lineaal
+Story Point-lineaal
 
-Om als team beter te worden in het relatief schatten van User Stories creeer een Story Point lineaal.
+Om als team beter te worden in het relatief schatten van User Story's kan je een Story Point-lineaal maken.
 
-Aan het eind van elke sprint (bijvoorbeeld gedurende de Sprint Review) vraag jezelf voor elke afgeronde story: Terugkijkend met wat we nu weten, hoeveel Story Points had deze eigenlijk moeten zijn? Plaats de User Story op die plaats op de lineaal.
+Stel jezelf als team aan het eind van elke sprint (bijvoorbeeld gedurende de Sprint Review) voor elke afgeronde Story de vraag: "Terugkijkend met wat we nu weten, hoeveel Story Points had deze eigenlijk moeten zijn?" Plaats de User Story op die plaats op de lineaal.
 
-Wanneer nieuwe stories geschat moeten worden (met bijvoorbeeld Planning Poker) vergelijk de nieuwe stories met de stories die al op de lineaal zitten. Op regelmatige basis re-organiseer je de lineaal, bewaar de goede voorbeelden en verwijder gelijke User Stories zodat hij overzichtelijk blijft.
+Vergelijk nieuwe story's wanneer deze ingeschat moeten worden (d.m.v. bijvoorbeeld Planning Poker) met de story's die al op de lineaal geplaatst zijn. Reorganiseer de lineaal op regelmatige basis, bewaar de goede voorbeelden en verwijder vergelijkbare User Story's zodat het overzichtelijk blijft.
 
 Story Point Ruler
 
