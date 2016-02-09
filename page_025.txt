@@ -1,8 +1,8 @@
-Vraagteken icoon
+Vraagtekenicoon
 
-Soms heb je ergens een vraag over, maar de persoon om de vraag aan te stellen is niet aanwezig en er kan worden gewacht tot de volgende Dagelijkse Stand-up meeting. Markeer dan deze taak met een vraagteken.
+Soms heb je ergens een vraag over, maar de persoon om de vraag aan te stellen is niet aanwezig en bovendien kan er worden gewacht tot de volgende Daily Stand-up. Markeer deze taak dan met een vraagteken.
 
-Tijdens de Dagelijkse Stand-up meeting scant het team de muur op Vraagtekens, behandelt ze en verwijdert ze één voor één.
+Tijdens de Daily Stand-up scant het team de muur op Vraagtekens, behandelt ze en verwijdert ze één voor één.
 
 --------------------------------------------------------------------------------
 
