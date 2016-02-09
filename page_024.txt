@@ -2,9 +2,9 @@ Mertine Middelkoop
 
 Einddatums en vierkantjes
 
-Soms is er een hele strikte einddatum op het realiseren van iets, bijvoorbeeld het oplossen van een bug in een kritiek pad. Om dit te visualiseren schrijf je de datum van de deadline, waarop de taak klaar moet zijn er bij. En teken een vierkantje voor elke dag die over blijft tot die dag.
+Soms is er een hele strikte einddatum op het realiseren van iets, bijvoorbeeld het oplossen van een bug in een kritiek pad. Om dit te visualiseren schrijf je de datum van de deadline, waarop de taak klaar moet zijn erbij. En teken een vierkantje voor elke dag die over blijft tot die dag.
 
-Tijdens de Daily Stand-up meeting, vink je 1 vierkantje af. Op deze manier kun je makkelijk zien hoeveel dagen nog over zijn en wanneer je in tijdnood komt.
+Tijdens de Daily Stand-up vink je 1 vierkantje af. Op deze manier kun je makkelijk zien hoeveel dagen nog over zijn en wanneer je in tijdnood komt.
 
 Soms moet een bug onmiddelijk worden opgelost, waardoor je alles uit je handen moet laten vallen waar je mee bezig bent. Maar soms is er ook wat speelruimte zodat je de mogelijkheid hebt om zaken af te handelen voordat je een semi-urgente taak oppakt. Vooral in die situatie zijn einddatums en vierkantjes handig.
 
