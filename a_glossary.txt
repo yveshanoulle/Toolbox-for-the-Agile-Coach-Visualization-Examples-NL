@@ -23,7 +23,7 @@ Queue ==> Wachtrij
 Retrospective ==> retrospectieve
 Story ==> Story
 Ticket ==> Ticket
-Urgent lane ==> Urgent-lane suggestie Astrid = "Prioriteits rij" suggestie Rik: Prioritaire Strook?
+Urgent lane ==> Urgent-lane suggestie Astrid = "Prioriteits rij" suggestie Rik: Prioritaire Strook? Spitsstrook? Vluchtstrook?
 User Story lane ==> User Story kolom
 Visualization ==> Visualisatie
 Wall ==> Sprint bord? Muur? /Muur? Sprint bord wordt aangeduid als "board", tenminste in mijn stukje tekst./
