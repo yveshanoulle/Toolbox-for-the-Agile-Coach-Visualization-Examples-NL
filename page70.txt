@@ -1,4 +1,13 @@
-Sven
+Envelopper Verzamelaars
+
+Enveloppen zijn zeer geschikt voor het verzamelen van Post-it. Ik heb gezien teams ze gewoon gebruiken voor opslag, een plek om de Post-its in op te slaan in plaats van ze in de vuilnisbak te gooien.
+
+Een uitgebreidere aanpak is elke maand nieuwe enveloppen te nemen en vervolgens de verschillende Post-its hierin op te bergen. Aan het einde van de maand worden de afgewerkte verhalen en taken samengevat en geanalyseerd. Wat was de verhouding van "toegevoegde waarde" (User Stories) werk vs bug fixing? Geplande versus ongeplande werkzaamheden? De meest voorkomende bron van onderbrekingen? Veelvoorkomende oorzaken van dringende taken?
+
+Als je nostalgisch bent kunt u de enveloppen in een plastic zak steken, etiketteer het met een datum en steek het in een kaft.
+
+-----------------------------------
+
 Envelopper Collectors
 
 Envelopes are great for collecting Post-it. I’ve seen teams use them simply for storage, a place to store Post-its instead of throwing them in the bin.
