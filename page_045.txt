@@ -1,10 +1,10 @@
-Taken < 1 dag
+Taakgrootte < 1 dag
 
-Stop bij het maken van taken (dus het opsplitsen van het werk dat gedaan moet worden om een User Story af te krijgen), niet tot alle taken minder dan een dag kosten om afgerond te worden.
+Stop bij het maken van taken (dus het opsplitsen van het werk dat gedaan moet worden om een User Story af te krijgen), niet eerder dan dat alle gespecificeerde taken minder dan een dag kosten om afgerond te worden.
 
-Deze regel maakt het eenvoudiger om voortgang en eventuele bottlenecks te zien. Het geeft ook aanleiding voor dieper inhoudelijke discussies tijdens de planning sessies.
+Deze regel maakt het eenvoudiger om voortgang en eventuele bottlenecks te zien. Het geeft ook aanleiding voor dieper inhoudelijke discussies tijdens de planningsessies.
 
-Verder zie je, als je Dotting gebruikt, het snel als er iets niet in de haak is doordat een taak punten verzamelt. Geen enkele taak zou immers meer dan 1 stip mogen krijgen.
+Verder zie je snel met behulp van stippen zetten dat er iets niet in de haak is als een taak meerdere stippen verzamelt. Geen enkele taak zou immers meer dan 1 stip mogen krijgen.
 
 Als je een Sprint Burndown gebruikt, kun je in plaats van het tellen van uren ook gewoon het aantal taken tellen. Veel sneller!
 
