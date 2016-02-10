@@ -23,7 +23,7 @@ Pairing ==> Samenwerken?
 Parking Lot ==> Parkeerplaats
 Policies ==> Methodiek suggestie Yves = afspraken
 Queue ==> Wachtrij
-Retrospective ==> retrospectieve suggestie Bianca=retrospective aanhouden
+Retrospective ==> retrospective
 States ==> statussen
 Story ==> Story
 Ticket ==> Ticket
