@@ -15,6 +15,7 @@ Examples ==> Voorbeelden
 High score ==> High-score
 Hourglass Scrum Wall ==> Zandloper sprintbord / planningbord
 Icon ==> Icoon
+Interruption buckets = onderbrekingen?
 Lane ==> Strook (zie ook Urgent lane)
 Pair programming ==> Pair programming
 Pairing ==> Samenwerken?
