@@ -1,4 +1,10 @@
-Cecil
+Parkeerplaats
+
+Wanneer het eam tijdelijk niet meer werkt aan een story (of een specifieke taak pauzeert) vanwege veranderingen in prioriteit: zorg dat dit duidelijk en transparant is door de Post-its te verplaatsen naar de Parkeerplaats.
+
+Verplaatsen van de story/taak vanaf het primaire bord verkleint de kans dat personen per ongeluk werken aan de gepauzeerde taak (vermeerderde niet noodzakelijke multi tasking).
+
+--------------------------------------------------------------------------------
 
 Parking lot
 

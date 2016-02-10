@@ -1,4 +1,12 @@
-Cecil
+Bom icoon
+
+Een team waarmee ik werkte stopte met het gebruik van de prioriteits rij. Hij werd misbruikt, was altijd vol met “belangrijke” taken en belemmerde de mogelijkheid om te kunnen focussen en plannen.
+
+Daar alle taken gekoppeld waren aan een story was er geen mogelijkheid voor een urgente taak om op de muur te belanden totdat een rij op het Kanban bord leeg was. Dit verontruste de Product Owner. Dus de Product Owner kreeg één (één!) Bom icoon. Hij kon deze toekennen aan iedere taak die hij wilde. Indien iemand die met deze taak kon helpen stopte hij zijn werk en werkt aan die taak totdat die taak af was.
+
+(De Bom icoon werd hoe langer hoe minder gebruikt, daar de moeilijkheden en kosten van zijn gebruik snel duidelijk werden.)
+
+--------------------------------------------------------------------------------
 
 Bomb icon
 
