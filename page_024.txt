@@ -1,5 +1,3 @@
-Mertine Middelkoop
-
 Einddatums en vierkantjes
 
 Soms is er een hele strikte einddatum op het realiseren van iets, bijvoorbeeld het oplossen van een bug in een kritiek pad. Om dit te visualiseren schrijf je de datum van de deadline, waarop de taak klaar moet zijn erbij. En teken een vierkantje voor elke dag die over blijft tot die dag.
