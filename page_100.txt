@@ -1,12 +1,10 @@
-Mertine Middelkoop
-
 Dagelijkse Check-in
 
 Niet iedereen heeft de luxe om te werken in een vast team. Toch kun je afhankelijke zijn van collega's voor besprekingen. Bijvoorbeeld: als agile coach wilt je samenwerken met andere agile coaches en graag makkelijk kunnen zien wie er nog meer aanwezig zijn op kantoor.
 
 Wanneer je s'ochtends arriveert verplaats je je (profielfoto) naar de huidige dag en wanneer je weggaat verplaats je het naar "Afwezig". En om de visualisatie nog leuker te maken, waarom geen lego gebruiken?
 
-
+-------------------
 Daily Check-in
 
 Not everyone has the luxury of working in a co-located team but still depends on colleagues for discussions. You might for example be an agile coach collaborating a lot with other agile coaches and you want to easily see who else is in the office. 
