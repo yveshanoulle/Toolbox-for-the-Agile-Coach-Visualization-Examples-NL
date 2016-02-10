@@ -1,0 +1,20 @@
+Bianca Griffioen
+
+Verbeterstrook
+
+Om verbeterpunten uit je retrospectives een natuurlijk onderdeel van je planning en Daily Stand-up te maken, voeg je een Verbeterstrook toe aan je bord.
+
+Sommige teams hebben een Verbeterstrook aan de onderkant van het bord. Zij spreken af dat wanneer je niet verder kunt met je primaire werk, je een verbeterpunt oppakt totdat je blokkade is opgeheven of totdat iemand anders je hulp nodig heeft.
+
+Andere teams hebben een Verbeterstrook aan de bovenkant. Zij geven het signaal dat verbeterpunten het meest belangrijk zijn om als eerste af te ronden (na de urgente productieproblemen).
+
+
+
+Improvement Lane
+
+To make your retrospective improvement actions a natural part of your planning and Daily Stand-ups, add an Improvement Lane to the board.
+
+Some teams place the Improvement lane at the bottom and have the policy that if you’re blocked on your primary work you work on improvements until you become unblocked, or someone else needs help.
+
+Other teams place the lane on top, signaling that the improvement actions are the most important thing to finish first (right after urgent production problems). 
+

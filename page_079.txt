@@ -1,0 +1,22 @@
+Buis vragen
+
+Het laten vallen van ballen in een buis is een leuke manier om data te visualiseren. De buizen kunnen gelabeld zijn. De kleuren van de ballen kunnen gebruikt worden met ieder een andere betekenis.
+
+De mogelijkheden zijn eindeloos, maar hier wat voorbeelden:
+Statistics: Waar zijn de bugs uit afkomstig? Zodra een bug is opgelost, laat je een bal vallen in de overeenkomstige buis.
+Data: Elke buis is een sprint. Iedere bal een Story Point.
+Vraag: Iedere buis staat gelijk aan een vraag. Groene ballen voor JA, rode ballen voor NEE.
+Stemmen: “Refactor” - welke class moet aangepakt worden voor de volgende hack aanval?
+
+
+
+
+Tube Poll
+
+Dropping balls in tubes is a fun way to visualize data. The tubes can be labeled. The colors of the balls could be used to have different meaning.
+
+The possibilities are of course endless, but here are some examples:
+Statistics: Where do bugs originate from? Once a bug has been fixed, drop a ball in corresponding tube.
+Data: Each tube is a sprint. Each ball a Story Point.
+Poll: Each tube represents a question. Green balls for yes, red balls for no.
+Vote: “Refactor” - what class should be the target for the next hack attack?

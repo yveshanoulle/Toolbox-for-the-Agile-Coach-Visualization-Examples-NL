@@ -1,0 +1,13 @@
+Astrid
+
+Verbeter thema
+
+Het verbeter thema is een middel in de vorm van een poster die werkt als een lopende band voor continue verbeteren nadat de Retrospective voorbij is. Beschrijf de huidige situatie in het rode deel. Definieer dan hoe de situatie eruit zou zien wanneer alles fantastisch is in het groene deel. Vraag jezelf dan af wat realistisch en concrete doelen zijn (je "Doel conditie") die we kunnen bereiken in zes weken en ons dichter bij onze "Definitie van fantastisch" brengen. Definieer dan de eerste drie kleine stappen die je kunt nemen om dichter bij je doel te komen.
+
+Gebruik de Daily Stand-up om te kijken naar de status van de stappen en nieuwe acties toe te voegen zodra andere zijn afgerond. Zodra de zes weken voorbij zijn evalueer de poster en creeer een nieuwe "Doel conditie"
+
+Improvement Theme
+
+Improvement Theme is a tool in the form of a poster that works as a conveyor belt for continuous improvements once the Retrospective is over. Describe the current situation in the red section. Then define how the situation would look like if it was awesome in the green section. Then ask yourselves, six weeks from now; what realistic and concrete goals can we set that will bring us closer to our “Definition of Awesome?” Then identify the first three smallest steps you can take to get closer to these goals. 
+
+Follow up on the steps during the Daily Stand-up and add new ones as tasks are completed. When the six weeks have passed, evaluate the poster and create a new “Next Target Condition”.

@@ -1,0 +1,11 @@
+User Story Smaak Legenda
+
+Sommige teams vinden het handig om verschil te maken tussen verschillende soorten User Stories. Niet al het werk past goed in het typische klantwaarde gerichtte User Story template.
+
+In plaats van jezelf te forceren om een geforceerde kaart te maken in het User Story formaat voor een patch release of voor een time-boxed onderzoek of experiment, kun je ervoor kiezen een eenvoudigere vorm te gebruiken voor werk dat niet bedoeld is voor gebruikers. Om onderscheid te kunnen maken in de verschillende "smaken" User Stories gebruik je verschillende kleuren en legt elke kleur, met betekenis, vast in je legenda op de muur.
+
+User Story Flavor Legend
+
+Some teams find it useful to distinguish between different types of user stories. Not all prioritized work fit the typical customer value focused User Story template. 
+
+Instead of forcing yourselves to write a weird card using User Story format for a patch release or a time boxed investigation or experiment, allow simpler templates when working with non-user centric stories. Make the different flavors of User Stories clear by the use of colors and add the colors to your wall legend.

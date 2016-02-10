@@ -1,0 +1,5 @@
+Activiteiten-dobbelsteen
+
+Rol bij het begin van de dagelijkse standup met de team-activiteiten-dobbelsteen. De dobbelsteen geeft aan wat je die dag samen moet gaan doen. 
+
+Dit kan een gezamenlijke lunch zijn, het opruimen en verbeteren van de teamruimte, het bezoeken van een ander team, naar buiten gaan voor een wandeling, een papier-schaar-rots-wedstrijd, 100 gezamenlijke push-ups, het maken van een nieuwe dobbelsteen, een middagpauze met ijsjes, samen 10 minuten mediteren, het trekken en bespreken van een Jimmy-card, het verwijderen van oude bugs uit het bug tracking systeem, of iets ander dat je als team graag wilt doen. 

@@ -1,0 +1,17 @@
+Team Ritme/Cyclus
+
+Veel teams die Kanban gebruiken, hebben toch de behoefte aan een ritme. Bijvoorbeeld, de backlog elke week bespreken, een demo en retrospective elke tweede week, enzovoort.
+
+Dit ritme visualiseren, en laten zien waar het team zit in de cyclus, helpt om focus aan te brengen en zorgt voor een gevoel van structuur in een verder door vraag en antwoord gedreven omgeving.
+
+De cyclus kan op veel verschillende manieren worden gevisualiseerd: een klok (voorbeeld A), een weg (B), een spelbord (C). Kies welke je bevalt en leuk vindt.
+
+
+Team Rhythm/Cycle
+
+Many teams who Kanban still experience value from having a rhythm. For example, backlog grooming every week, demo and retrospective every second week, and so on.
+
+Visualizing this rhythm, and where in the cycle the team is, helps focus and provides a sense of structure to an otherwise response and pull driven work environment.
+
+The cycle can be visualized in many ways: a clock (example A), a road (B), a game board (C). Pick whatever you like and find amusing.
+

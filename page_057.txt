@@ -1,0 +1,16 @@
+Kleur per vaardigheid
+
+Sommige teams gebruiken kleuren voor taken gebaseerd op de belangrijkste vaardigheid die nodig is. Gedurende de Planningsessie helpt het teams om werk te splitsen in taken en om de diversiteit van het werk inzichtelijk te krijgen.
+
+Ik heb teams gezien die een specifieke kleur gebruiken voor testen, andere teams hebben een aparte kolom. Met experimenteren kom je erachter wat voor jullie het beste werkt.
+
+Wanneer deze techniek het samenwerken in het team in de weg staat, stop er dan mee. Het niet vinden van een taak in "jouw" kleur is geen reden om niet samen te werken en collega's te helpen.
+
+
+Color according to skill
+
+Some teams like to color the tasks according to the primary skill needed. During the planning session this helps the team to split work into tasks and to clarify the diversity of work.
+
+I’ve seen that some teams have a color for testing activities, others have a column named “Testing”. You need to experiment to find what works for you.
+
+But, if this technique undermines teamwork - stop using it! Not finding a task with “your” color is no excuse to not collaborate and help out. 

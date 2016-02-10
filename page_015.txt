@@ -1,6 +1,6 @@
-﻿Dagen tot Demo.
+Dagen tot Demo.
 
-Dagen tot Demo is een eenvoudige countdown tot de volgende demo. Het doel is om een bewustzijn te creëren en het team eraan te helpen herinneren dat de demo moet worden gepland en voorbereid.
+"Dagen tot Demo" is een eenvoudige countdown tot de volgende demo. Het doel is om een bewustzijn te creëren en het team eraan te helpen herinneren dat de demo moet worden gepland en voorbereid.
 En natuurlijk ook om verwachtingen te wekken voor alle anderen.
 
 Het toont gewoon het aantal dagen tot de demo. Op de laatste dag zal er "Vandaag om 14u" staan (of iets dergelijks).

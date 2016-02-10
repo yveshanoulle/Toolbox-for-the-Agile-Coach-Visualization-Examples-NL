@@ -2,9 +2,9 @@ Voortgangstaart
 
 Heb je je roadmap gevisualiseerd op je muur en wil je de voortgang visualiseren van Epics gerelateerd aan een specifieke release? Een ruwe schatting is meestal genoeg, bijvoorbeeld een voortgangstaart.
 
-Teken een cirkel op de Post-it en vraag "Hoe veel is gedaan?". Vul de taart op basis van het antwoord. Een lege cirkel zou "nog niet begonnen" betekenen. Een volle cirkel "Klaar om te leveren".
+Teken een cirkel op de Post-it en vraag "Hoe veel is gedaan?". Vul de taart op basis van het antwoord. Een lege cirkel zou "nog niet begonnen" betekenen. Een volle cirkel "klaar om te leveren".
 
-Dit start natuurlijk discussies over wat er voor nodig voor een volle cirkel, hetgeen een goede zaak is! Wanneer nodig: verduidelijk acceptatiecriteria en vervang eventeel de Epic door opgesplitste User Stories.
+Dit start natuurlijk discussies over wat er nodig is voor een volle cirkel, hetgeen een goede zaak is! Wanneer nodig: verduidelijk acceptatiecriteria en vervang eventeel de Epic door opgesplitste User Story's.
 
 ---
 
