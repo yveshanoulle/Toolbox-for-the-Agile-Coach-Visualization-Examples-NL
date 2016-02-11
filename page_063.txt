@@ -1,10 +1,10 @@
 Astrid
 
-Verbeter thema
+Verbeterthema
 
-Het verbeter thema is een middel in de vorm van een poster die werkt als een lopende band voor continue verbeteren nadat de Retrospective voorbij is. Beschrijf de huidige situatie in het rode deel. Definieer dan hoe de situatie eruit zou zien wanneer alles fantastisch is in het groene deel. Vraag jezelf dan af wat realistisch en concrete doelen zijn (je "Doel conditie") die we kunnen bereiken in zes weken en ons dichter bij onze "Definitie van fantastisch" brengen. Definieer dan de eerste drie kleine stappen die je kunt nemen om dichter bij je doel te komen.
+Het verbeterthema is een middel in de vorm van een poster dat werkt als een lopende band voor continu verbeteren nadat de Retrospective voorbij is. Beschrijf de huidige situatie in het rode deel. Definieer dan hoe de situatie eruit zou zien wanneer alles fantastisch is in het groene deel. Vraag jezelf dan af welke realistische en concrete doelen gesteld kunnen worden die je dichter bij je "Definitie van Fantastisch" (6 weken van nu) zullen brengen. Bepaal vervolgens de eerste drie kleine stappen die je kunt nemen om dichter bij je einddoel te komen.
 
-Gebruik de Daily Stand-up om te kijken naar de status van de stappen en nieuwe acties toe te voegen zodra andere zijn afgerond. Zodra de zes weken voorbij zijn evalueer de poster en creeer een nieuwe "Doel conditie"
+Gebruik de Daily Stand-up om te kijken naar de status van de stappen en om nieuwe acties toe te voegen zodra andere zijn afgerond. Evalueer de poster zodra de zes weken voorbij zijn en creëer een nieuwe "Doelconditie"
 
 Improvement Theme
 

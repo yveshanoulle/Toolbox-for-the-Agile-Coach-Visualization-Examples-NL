@@ -1,8 +1,8 @@
-Kaizen bord
+Kaizenbord
 
-Om er zorg voor te dragen dat de acties die zijn geselecteerd daadwerkelijk worden gedaan, noteer ze op Post-its en breng ze naar de muur.
+Om ervoor te zorgen dat alle geselecteerde acties ook daadwerkelijk worden uitgevoerd, noteer je ze op Post-its en hang je ze op de muur.
 
-Als de Post-its niet passen op je standaard bord, maak een klein apart Retrospectieve Acties Kanban bord (soms bekend als Kaizen Bord) om het verbeter werk te volgen.
+Als de Post-its niet passen op je standaard bord, maak dan een klein apart "Retrospective Acties"-Kanbanbord (soms bekend als Kaizenbord) om het verbeterwerk te volgen.
 
 Wanneer je Avatars gebruikt, gebruik ze dan op dezelfde manier als je ze gebruikt op de normale muur.
 
