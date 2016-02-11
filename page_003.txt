@@ -1,14 +1,14 @@
-Welkom
+﻿Welkom
 
-Dit is een boek gevuld met gevisualiseerde voorbeelden om teams te helpen hun samenwerking en communicatie te verbeteren en tevens gedrag te vormen. Het is geschreven voor mensen en teams die werken in een agile softwareontwikkelomgeving.
+Dit is een boek gevuld met visualisatie voorbeelden om teams te helpen hun samenwerking en communicatie te verbeteren en tevens gedrag te vormen. Het is geschreven voor mensen en teams die werken in een agile softwareontwikkelomgeving.
 
-Dit boek toont enkel voorbeelden en niets anders. Geen diepe theoretische verklaringen. Geen uitleg van Agile of Scrum. Geen referenties naar Gamification. Geen discussie over hoe het brein visuele invoer verwerkt of hoe ons gedrag wordt beïnvloed bij visuele informatie. Er zijn andere boeken voor deze informatie.
+Dit boek geeft enkel voorbeelden en niets anders. Geen diepe theoretische verklaringen. Geen uitleg van Agile of Scrum. Geen referenties naar Gamification. Geen discussie over hoe het brein visuele invoer verwerkt of hoe ons gedrag wordt beïnvloed door visuele informatie. Er bestaan andere boeken over die topics.
 
 Indien een pagina een pijl (➨) bevat in de bovenste hoek, dan betekent dit dat er een link is naar een blog of een artikel met meer informatie. Dit staat op de pagina met “Meer informatie”.
 
 Indien een pagina een hart (❤) bevat, dan krijgt er een persoon of team krediet voor het idee op de pagina “Bronnen van inspiratie”.
 
-Het kan overkomen alsof de voorbeelden in dit boek de beste en enige manier zijn om dingen te doen. Dit is natuurlijk niet waar. De voorbeelden zijn niet de beste manier. Ze zijn enkel suggesties. Je moet ze aanpassen aan je context en behoeften van je teams.
+Het kan overkomen alsof de voorbeelden in dit boek de beste en enige manier zijn om dingen te doen. Dit is natuurlijk niet waar. De voorbeelden zijn niet de beste manier. Ze zijn enkel suggesties. Je moet ze aanpassen aan de context en behoeften van je teams.
 
 Dit boek is niet bedoeld om van kaft tot kaft te lezen. Blader. Spring heen en weer. Kies wat je bevalt. Combineer de ideeën met wat je verder bruikbaar vindt. Experimenteer en evalueer. Ontwikkel, of gooi weg.
 
