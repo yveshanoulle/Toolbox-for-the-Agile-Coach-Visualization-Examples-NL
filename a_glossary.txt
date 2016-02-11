@@ -19,7 +19,7 @@ Improvement Lane ==> Verbeter ??? conform afspraken vertaling lane
 Interruption buckets = onderbrekingen?
 Lane ==> Strook (zie ook Urgent lane)
 Pair programming ==> Pair programming
-Pairing ==> Samenwerken?
+Pairing ==> Pairing
 Parking Lot ==> Parkeerplaats
 Policies ==> Methodiek suggestie Yves = afspraken
 Queue ==> Wachtrij
