@@ -1,14 +1,14 @@
-Algemeen advies
+﻿Algemeen advies
 
 Toegankelijkheid - Plaats de muur met visualisaties op de plek waar je team werkt. Je wilt dat iedereen het gemakkelijk kan zien.
 
-Eenvoudig - Het moet eenvoudig zijn om de muur aan te passen. Wanneer het te bewerkelijk is om hem aan te passen, dan zal de muur waarschijnlijk in kwaliteit achteruit gaan. Wanneer je vermoedt dat hij niet actueel is, dan zul je hem niet langer vertrouwen. En wanneer je hem niet vertrouwt, dan pas je hem nog minder snel aan.
+Eenvoudig - Het moet eenvoudig zijn om de muur aan te passen. Wanneer het te lastig is om aan te passen, dan zal de muur waarschijnlijk aan kwaliteit inboeten. Wanneer je vermoedt dat hij niet actueel is, dan zul je hem niet langer vertrouwen. En wanneer je hem niet vertrouwt, dan pas je hem nog minder snel aan.
 
 Helder - Wanneer je de muur met zorg en liefde opzet, dan zul je hem meer respecteren en mooi en netjes willen houden. Maak het niet te gek: kies de onderdelen met zorg.
 
 Primaire flows - Ontwerp voor de standaard zaken en de primaire flows. Kies extra componenten gebaseerd op de gedragingen die je wilt veranderen. Behandel uitzonderingen als uitzonderingen.
 
-Evalueer - Je muur is een levend iets. Evalueer de waarde van ieder component en ontwerp regelmatig, verbeter, pas aan en verwijder.
+Evalueer - Je muur is een levend iets. Evalueer de waarde van elke component en ontwerp regelmatig, verbeter, pas aan en verwijder.
 
 --------------------------------------------------------------------------------
 
