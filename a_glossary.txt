@@ -14,24 +14,24 @@ Daily Stand-up ==> Daily Stand-up
 Examples ==> Voorbeelden
 Hat ==> Pet
 High score ==> High-score
-Hourglass Scrum Wall ==> Zandloper sprintbord / planningbord
+Hourglass Scrum Wall ==> Zandloper sprintbord
 Icon ==> Icoon
-Improvement Lane ==> Verbeter ??? conform afspraken vertaling lane
-Interruption buckets = onderbrekingen?
-Lane ==> Strook (zie ook Urgent lane)
+Improvement Lane ==> Verbeter strook
+Interruption buckets = Onderbreking emmer
+Lane ==> Strook 
 Pair programming ==> Pair programming
 Pairing ==> Pairing
 Parking Lot ==> Parkeerplaats
-Policies ==> Methodiek suggestie Yves = afspraken
+Policies ==> Methodiek 
 Queue ==> Wachtrij
 Retrospective ==> retrospective
 States ==> statussen
 Story ==> Story
 Ticket ==> Ticket
-Urgent lane ==> Urgent-lane suggestie Astrid = "Prioriteits rij" suggestie Rik: Prioritaire Strook? Spitsstrook? Vluchtstrook?
-User Story lane ==> User Story kolom suggestie Bianca = conform andere vertalingen van Lane
+Urgent lane ==> Prioritaire Strook 
+User Story lane ==> User Story Strook 
 Visualization ==> Visualisatie
-Wall ==> Sprint bord? Suggeste Bianca=Muur Sprint bord wordt in mijn stukje tekst aangeduid als "board".
+Wall ==> Muur 
 Waste ==> Verspilling
 Whiteboard ==> Whiteboard
 WIP-limit ==> WIP-limiet
