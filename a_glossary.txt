@@ -12,7 +12,7 @@ Boxes ==> vierkantjes
 Bug ==> Bug
 Daily Stand-up ==> Daily Stand-up
 Examples ==> Voorbeelden
-Hat ==> Hoed
+Hat ==> Pet
 High score ==> High-score
 Hourglass Scrum Wall ==> Zandloper sprintbord / planningbord
 Icon ==> Icoon
