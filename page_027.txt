@@ -1,6 +1,6 @@
 Bomicoon
 
-Een team waarmee ik werkte stopte met het gebruik van de Prioriteitsbaan. Hij werd misbruikt, was altijd vol met “belangrijke” taken en belemmerde de mogelijkheid om te kunnen focussen en plannen.
+Een team waarmee ik werkte stopte met het gebruik van de Prioritaire baan . Hij werd misbruikt, was altijd vol met “belangrijke” taken en belemmerde de mogelijkheid om te kunnen focussen en plannen.
 
 Daar alle taken gekoppeld waren aan een story was er geen mogelijkheid om een urgente taak op de muur te plaatsen totdat een rij op het Kanbanbord leeg was. Dit verontrustte de Product Owner. Dus kreeg de Product Owner één (één!) Bomicoon. Hij kon deze toekennen aan iedere taak die hij wilde. Iedereen die kon helpen stopte met zijn werk en werkte vervolgens aan de taak met Bomicoon totdat die af was.
 
