@@ -1,10 +1,8 @@
-Astrid
-
-Aankomst / vertrek tijdlijn
+﻿Aankomst/vertrek tijdlijn
 
 Ik heb gehoord over teams die belangrijke gebeurtenissen bijhouden over de wijzigingen in het team. Wanneer het team ontstaan is, toen het een nieuwe naam heeft gekregen, toen de missie veranderd is en wanneer nieuwe mensen bij het team komen of er mensen het team verlaten hebben.
 
-Hierdoor ontstaat een gedeelde geschiedenis die inzicht geeft in de ontwikkeling van het team tot waar het nu staat. Ook andere soorten gebeurtenissen zouden opgenomen kunnen worden zoals belangrijke releases, verdragende beslissingen of organizatie wijzigingen.
+Hierdoor ontstaat een gedeelde geschiedenis die inzicht geeft in de ontwikkeling van het team tot waar het nu staat. Ook andere soorten gebeurtenissen zouden opgenomen kunnen worden zoals belangrijke releases, ingrijpende beslissingen of organisatiewijzigingen.
 
 Arrival/Departure Timeline
 
