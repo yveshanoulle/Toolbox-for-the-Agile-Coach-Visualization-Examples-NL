@@ -1,6 +1,6 @@
 Zandloper planningbord
 
-Een planningbord hoeft niet altijd de vorm van een strak raster te hebben. Het zandloper planningbord vervangt een user story kolom door een zandloper waarbij taken van boven naar beneden lopen. Het biedt twee manieren om het werk dat onder handen is te beperken: het aantal parallelle user stories en een maximum van twee actieve taken per user story. Als een story te klein is om in taken op te delen (bijvoorbeeld als het team de story in een dag kan afronden) dan beslaat de story de gehele zandloper.
+Een planningbord hoeft niet altijd de vorm van een strak raster te hebben. Het zandloper planningbord vervangt een user story baan door een zandloper waarbij taken van boven naar beneden lopen. Het biedt twee manieren om het werk dat onder handen is te beperken: het aantal parallelle user stories en een maximum van twee actieve taken per user story. Als een story te klein is om in taken op te delen (bijvoorbeeld als het team de story in een dag kan afronden) dan beslaat de story de gehele zandloper.
 
 Door gebruik te maken van "Werk in uitvoering" en geen onderscheid te maken in "Coderen", "Reviewen" en "Testen" wordt multidiscplinaire samenwerking en kennisdeling afgdewongen.  
 
