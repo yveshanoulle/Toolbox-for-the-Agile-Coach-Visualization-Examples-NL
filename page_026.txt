@@ -1,10 +1,10 @@
-Urgentiestrook en beleid
+Urgentiebaan en beleid
 
-Niet alles kan worden gepland en voorzien tijdens de sprintplanning. Voeg een Urgentiestrook toe om op een gestructureerde en transparante manier om te kunnen gaan met onvoorziene urgente taken.
+Niet alles kan worden gepland en voorzien tijdens de sprintplanning. Voeg een Urgentiebaan toe om op een gestructureerde en transparante manier om te kunnen gaan met onvoorziene urgente taken.
 
-Daar urgente taken nooit gepland zijn, is de “Planned” (Taken Om Te Doen) kolom niet nodig. Gebruik die ruimte om duidelijk te beschrijven wat het beleid is om een taak als urgent aan te merken. Aan welke criteria moet een taak voldoen om in de Urgentiestrook te kunnen worden geplaatst? Indien deze criteria niet gelden, dan moet de taak tijdens de volgende sprintplanning worden overwogen, of tijdens de volgende Backlog Groomingsessie.
+Daar urgente taken nooit gepland zijn, is de “Planned” (Taken Om Te Doen) kolom niet nodig. Gebruik die ruimte om duidelijk te beschrijven wat het beleid is om een taak als urgent aan te merken. Aan welke criteria moet een taak voldoen om in de Urgentiebaan te kunnen worden geplaatst? Indien deze criteria niet gelden, dan moet de taak tijdens de volgende sprintplanning worden overwogen, of tijdens de volgende Backlog Groomingsessie.
 
-De Urgentiestrook moet normaal gesproken leeg zijn! Wees je ervan bewust dat je iedere keer dat je iets in deze strook plaatst verspilling creëert door om te schakelen en multitasking. Met uitgebreide mogelijkheden komt grote verantwoordelijkheid. Maak geen misbruik van de Urgentiestrook.
+De Urgentiebaan moet normaal gesproken leeg zijn! Wees je ervan bewust dat je iedere keer dat je iets in deze baan plaatst verspilling creëert door om te schakelen en multitasking. Met uitgebreide mogelijkheden komt grote verantwoordelijkheid. Maak geen misbruik van de Urgentiebaan.
 
 --------------------------------------------------------------------------------
 
