@@ -1,25 +1,26 @@
-Zandloper Scrum Muur (pagina 88)
+Zandloper planningbord (pagina 88)
 - Craig Strong, Pearson
 Ik wil leren... (pagina 91)
 - Pierre Neis, Upward Consulting
- Inbox (pagina 13) - Team Gaia, Spotify
+Inbox (pagina 13)
+- Team Gaia, Spotify
 
-Kudos muur (pagina 49)
+Kudomuur (pagina 49)
 - Jurgen Appelo, http://www.jurgenappelo.com
 
 Pair Programming Matrix (pagina 59)
 - Henrique Imbertti, Spotify
-Vooruitgang's cirkeldiagram (pagina 38)
+Voortgangstaart (pagina 38)
 - Pétur Jóhannes Óskarsson, Plain Vanilla/QuizUp
 
-Gemengde kaart (pagina 80)
+De koppeltjes kaart (pagina 80)
 - Patrik Enqvist, Nordea
- Piramide Backlog (pagina 78)
+Piramidebacklog (pagina 78)
 - Gunnar Holmsteinn, Plain Vanilla/QuizUp
- Race Track (pagina 83)
+Racebaan (pagina 83)
 - Georg Olafsson, Meniga
 
-Draai de Facilitator Hoed (pagina 33)
+Rouleren van de facilitators hoed (pagina 33)
 - Guðfinnur Sveinsson, Plain Vanilla/QuizUp
 
 

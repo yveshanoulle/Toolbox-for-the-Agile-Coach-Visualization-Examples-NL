@@ -1,4 +1,4 @@
-Dagelijkse Doelstellingen
+﻿Dagelijkse Doelen
 
 De belangrijkste vraag om te beantwoorden tijdens de Dagelijkse Stand-up is; wat moeten we doen vandaag als een team om ons een stap dichter bij onze huidige doel te brengen?
 

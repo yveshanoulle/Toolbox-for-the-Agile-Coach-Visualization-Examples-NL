@@ -2,23 +2,24 @@ Inspiratiebronnen
 
 Voor de meeste voorbeelden in dit boek, is het moeilijk te zeggen waar ik het voor het eerst zag of wat me inspireerde. Maar voor de onderstaande voorbeelden is er een duidelijke bron van inspiratie.
 
-  Aankomst/Vertrek tijdlijn (pagina 90)
+Aankomst/Vertrek tijdlijn (pagina 90)
 - Yves Hanoulle, http://www.hanoulle.be/
 
-Kerstboom (pagina 101)
+De Kerstboom (pagina 101)
 - Mattias Skarin, Crisp
 
 Stand-ups op tijd + highscore (pagina 36)
 - Kristinn Árni Lár Hróbjartsson, Plain Vanilla/QuizUp
- Dagelijkse Check-in (pagina 100)
-- Rolf F. Katzenberger, Pragmatic Teams 
+Dagelijkse Check-in (pagina 100)
+- Rolf F. Katzenberger, Pragmatic Teams
 Dagelijkse doelen (pagina 95)
 - Sandy Mamoli, Nomad8
 Afhankelijkheidsbord (pagina 103)
 - LEGO (through Henrik Kniberg, Crisp)
 
-Stippen  (pagina 21) - Team HW Partners, Spotify
- Guide Board (pagina 99)
+Stippen  (pagina 21)
+- Team HW Partners, Spotify
+Guide Board (pagina 99)
 - Matti Schneider, http://mattischneider.fr
 
 
