@@ -13,7 +13,7 @@ Wanneer een team ontdekt dat ze iets nodig hebben van een ander team (om hun eig
 
 Het bord wordt regelmatig nagekeken door de teams, bijvoorbeeld tijdens de Scrum der Scrums.  Eens een rode notitie opgelost is, wordt de gele post-it ook verwijderd.
 
-Het afhankelijkheidsbord kan teams helpen plannen, kenmerken verdelen, voorzien in noodzakelijke technische samenwerking en is ook een alternatieve manieren om elkaar te helpen vinden.
+Het afhankelijkheidsbord kan teams helpen plannen, taken op te delen, noodzakelijke technische samenwerking te voorzien en ook alternatieve manier te vinden om elkaar te helpen.
 
 Update suggestie:
 Eens een rode notitie opgelost is
