@@ -14,10 +14,10 @@ Daily Stand-up ==> Daily Stand-up
 Examples ==> Voorbeelden
 Hat ==> Pet
 High score ==> High-score
-Hourglass Scrum Wall ==> Zandloper sprintbord
+Hourglass Scrum Wall ==> Zandlopersprintbord
 Icon ==> Icoon
-Improvement Lane ==> Verbeter baan
-Interruption buckets = Onderbreking emmer
+Improvement Lane ==> Verbeterbaan
+Interruption buckets = Onderbrekingemmer
 Lane ==> Baan 
 Pair programming ==> Pair programming
 Pairing ==> Pairing
@@ -29,7 +29,7 @@ States ==> statussen
 Story ==> Story
 Ticket ==> Ticket
 Urgent lane ==> Prioritaire baan 
-User Story lane ==> User Story baan 
+User Story lane ==> User Story-baan 
 Visualization ==> Visualisatie
 Wall ==> Muur 
 Waste ==> Verspilling
