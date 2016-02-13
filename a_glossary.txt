@@ -16,7 +16,7 @@ Hat ==> Pet
 High score ==> High-score
 Hourglass Scrum Wall ==> Zandloper sprintbord
 Icon ==> Icoon
-Improvement Lane ==> Verbeter strook
+Improvement Lane ==> Verbeter baan
 Interruption buckets = Onderbreking emmer
 Lane ==> Baan 
 Pair programming ==> Pair programming
@@ -28,8 +28,8 @@ Retrospective ==> retrospective
 States ==> statussen
 Story ==> Story
 Ticket ==> Ticket
-Urgent lane ==> Prioritaire Strook 
-User Story lane ==> User Story Strook 
+Urgent lane ==> Prioritaire baan 
+User Story lane ==> User Story baan 
 Visualization ==> Visualisatie
 Wall ==> Muur 
 Waste ==> Verspilling
