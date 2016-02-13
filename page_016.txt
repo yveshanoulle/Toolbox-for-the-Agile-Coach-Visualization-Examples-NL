@@ -3,7 +3,7 @@ Dit is een krachtig alternatief voor (of aanvulling op) een Sprint Burndown.
 
 Aan het einde van elke Daily Stand-up stelt het team zichzelf de vraag: hoeveel vertrouwen hebben we erin dat we elke User Story af kunnen maken tegen het einde van de sprint? Het antwoord wordt gegeven door een Smiley van Vertrouwen.
 
-Het team doorloopt vlotjes elke rij op het bord, of elke User Story en past de kleur van de Smiley aan. Als teamleden het niet met elkaar eens zijn, dan wint de meest pessimistische stem.
+Het team doorloopt vlotjes elke baan op het bord, of elke User Story en past de kleur van de Smiley aan. Als teamleden het niet met elkaar eens zijn, dan wint de meest pessimistische stem.
 
 
 
