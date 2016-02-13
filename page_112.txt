@@ -1,17 +1,17 @@
 Stress Level Meter (pagina 62) - Crisp Office
- Team gewoontes (pagina 32)
+ Gewoontes van het team (pagina 32)
 - Fredrik Lindgren, Crisp
-Teamleden met hoeden (pagina 31)
+Teamleden met Pet (pagina 31)
 - Gunnar Holmsteinn, Plain Vanilla/QuizUp
 
-Team aanwezigheid tijdstippen (pagina 75)
+Team Aanwezigheid (pagina 75)
 - Hans Brattberg, Crisp
  Team tijdzone klokken (pagina 81)
 - Yves Hanoulle, http://www.hanoulle.be/
 Geïnvesteerde tijd  (pagina 97)
 - Mattias Skarin, Crisp
 
-Truc van de dag(pagina 86)
+Tip van de dag(pagina 86)
 - Edward Dahllöf, Valtech
 
 Buis vragen (pagina 79)
