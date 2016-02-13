@@ -18,7 +18,7 @@ Hourglass Scrum Wall ==> Zandloper sprintbord
 Icon ==> Icoon
 Improvement Lane ==> Verbeter strook
 Interruption buckets = Onderbreking emmer
-Lane ==> Strook 
+Lane ==> Baan 
 Pair programming ==> Pair programming
 Pairing ==> Pairing
 Parking Lot ==> Parkeerplaats
