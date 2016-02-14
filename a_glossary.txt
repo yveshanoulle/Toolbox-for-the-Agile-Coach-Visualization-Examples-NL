@@ -28,9 +28,11 @@ Retrospective ==> retrospective
 States ==> statussen
 Story ==> Story
 Ticket ==> Ticket
+Toolbox for the Agile Coach ==> Gereedschapskist voor de Agile Coach
 Urgent lane ==> Prioritaire baan 
 User Story lane ==> User Story-baan 
 Visualization ==> Visualisatie
+Visualization Examples ==> Visualisatievoorbeelden
 Wall ==> Muur 
 Waste ==> Verspilling
 Whiteboard ==> Whiteboard
