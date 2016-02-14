@@ -6,7 +6,7 @@ Eenvoudig - Het moet eenvoudig zijn om de muur bij te werken. Wanneer het te las
 
 Helder - Wanneer je de muur met zorg en liefde opzet, dan zul je hem meer respecteren en mooi en netjes willen houden. Maak het niet te gek: kies de onderdelen met zorg.
 
-Primaire flows - Ontwerp voor de standaard zaken en de primaire flows. Kies extra componenten gebaseerd op de gedragingen die je wilt veranderen. Behandel uitzonderingen als uitzonderingen.
+Primaire flows - Ontwerp voor de normale gang van zaken en de primaire flows. Kies extra componenten gebaseerd op de gedragingen die je wilt veranderen. Behandel uitzonderingen als uitzonderingen.
 
 Evalueer - Je muur is een levend iets. Evalueer de waarde van elke component en ontwerp regelmatig, verbeter, pas aan en verwijder.
 
