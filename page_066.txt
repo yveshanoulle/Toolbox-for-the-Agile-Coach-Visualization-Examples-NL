@@ -1,8 +1,8 @@
 Astrid
 
-Stemmings Thermometer
+Stemmingsthermometer
 
-De stemmings thermometer is een bord met een touw waaraan je een wasknijper met je naam vastmaakt. De positie van de wasknijper geeft je huidige stemming weer.
+De stemmingsthermometer is een bord met een touw waaraan je een wasknijper met je naam vastmaakt. De positie van de wasknijper geeft je huidige stemming weer.
 
 Je kunt deze wijzigen wanneer je wilt, een keer per week, of zelfs meerdere keren per dag.
 
