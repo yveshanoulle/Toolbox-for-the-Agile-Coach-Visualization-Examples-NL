@@ -12,6 +12,7 @@ Boxes ==> vierkantjes
 Bug ==> Bug
 Daily Stand-up ==> Daily Stand-up
 Examples ==> Voorbeelden
+Envelopper Collectors ==> Verzamel-enveloppen
 Hat ==> Pet
 High score ==> High-score
 How great teams visualize their work ==> Hoe uitstekende teams hun werk visualiseren
