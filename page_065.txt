@@ -1,10 +1,10 @@
 Klaar voor demo
 
-Teams die Kanban doen, zouden natuurlijk ook moeten demonstreren. Als jouw team geen regelmatige demo gepland heeft dan kan een Klaar voor Demo ruimte wellicht helpen.
+Teams die Kanban doen, zouden natuurlijk ook moeten demoën. Als jouw team geen regelmatige demo gepland heeft dan kan een "Klaar voor Demo"-ruimte op het bord wellicht helpen.
 
-Als een story afgerond is en gereed voor demo, verplaats hem dan naar een leeg vak in de eerste rij. Wanneer de eerste baan vol is, wordt een uitnodiging voor een demo verzonden. Tijdens de demo worden alle klaar-voor-demo stories getoond, waarna de ruimte weer wordt leeggemaakt.
+Als een story afgerond is en gereed voor demo, verplaats hem dan naar een leeg vak in de eerste rij. Wanneer de eerste rij vol is, wordt een uitnodiging voor een demo verzonden. Tijdens de demo worden alle "klaar-voor-demo"-story's getoond, waarna de ruimte weer wordt leeggemaakt.
 
-N.B. Dit voorbeeld is eerder genoemd (zie Prioritaire baan), maar is hier in meer detail gegeven.
+N.B. Dit voorbeeld is eerder genoemd (zie Prioriteitenstrook), maar is hier in meer detail beschreven.
 
 
 Ready for demo
