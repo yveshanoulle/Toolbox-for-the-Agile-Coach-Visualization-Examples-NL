@@ -18,36 +18,63 @@ Check-in ==> Check-in
 Colocated ==> xxx
 
 Daily Stand-up ==> Daily Stand-up
+Digital => xxx
+Dis-located team -> xxx
+Dotting ==> xxx
 
+Epic ==> Epic
 Examples ==> Voorbeelden
 Envelopper Collectors ==> Verzamel-enveloppen
+
+Flipchart --> Paper-board
+
 Hat ==> Pet
 High score ==> High-score
 How great teams visualize their work ==> Hoe uitstekende teams hun werk visualiseren
 Hourglass Scrum Wall ==> Zandlopersprintbord
+
 Icon ==> Icoon
 Improvement Lane ==> Verbeterbaan
+Improvement theme ==> xxx
 Interruption buckets = Onderbrekingemmer
+
+Kudos => xxx 
+
 Lane ==> Baan 
+Lane priority ==> Baanprioriteit
+
+LEGO ==> xxx
+
 Pair programming ==> Pair programming
+Pair Programming Matrix => xxx
 Pairing ==> Pairing
 Parking Lot ==> Parkeerplaats
 Policies ==> Methodiek 
+Promiscuous Map => xxx
+
 Queue ==> Wachtrij
+
 Retrospective ==> retrospective
+
 States ==> statussen
 Story ==> Story
+Stress level meter ==> xxx
+
 Ticket ==> Ticket
 Toolbox for the Agile Coach ==> Gereedschapskist voor de Agile Coach
+
 Urgent lane ==> Prioritaire baan 
-User Story lane ==> User Story-baan 
+User Story lane ==> User Story-baan
+
 Visualization ==> Visualisatie
 Visualization Examples ==> Visualisatievoorbeelden
+
 Wall ==> Muur 
 Waste ==> Verspilling
 Whiteboard ==> Whiteboard
 WIP-limit ==> WIP-limiet
 Working agreement ==> werkafspraken
-Lane priority ==> Baanprioriteit
+
+
 
 
