@@ -6,9 +6,13 @@ Om zeker te zijn dat andere zien dat je aan een pagina bezig bent, kan ik je aan
 (tenzij iemand een beter idee heeft.)
 
 pagina structuur:
+
 page1.txt origineel
+
 page_001.txt of page0_001.txt vertaling
+
 page1_001.txt eerste review
+
 page2_001.txt tweede review
 
 
