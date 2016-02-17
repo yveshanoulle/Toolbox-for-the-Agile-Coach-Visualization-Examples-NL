@@ -1,10 +1,10 @@
-Strookprioriteit
+﻿Baanprioriteit
 
 Dit is meer een afspraak dan een visualisatietip.
 
-Om als team efficiënter te werken en om te streven naar het afwerken van taken in plaats van een nieuwe te starten, spreek je af samen te werken aan de taken in volgorde van prioriteit. Zet de taken met de hoogste prioriteit bovenaan en rangschik de rest volgens prioriteit.
+Om als team efficiënter te werken, en om te streven naar het afwerken van taken in plaats van een nieuwe te starten, spreek je af om samen te werken aan de taken in volgorde van prioriteit. Zet de taken met de hoogste prioriteit bovenaan en rangschik de rest volgens prioriteit.
 
-Als een taak afgewerkt is, verplaats ze naar de "afgewerkt/klaar voor demo" kolom. Daardoor krijg je een lege baan. Sommige teams verplaatsen dan alle post-its een baan hoger om de lege ruimte in te vullen.
+Als een taak voltooid is, verplaats ze naar de "voltooid/klaar voor demo" kolom. Daardoor krijg je een lege baan. Sommige teams verplaatsen dan alle post-its een baan hoger om de lege ruimte in te vullen.
 
 ---
 Lane priority
