@@ -1,8 +1,8 @@
-Stippen
+﻿Stippen
 
 Zet elke dag een nieuwe stip op een taak in uitvoering. Zet een stip ongeacht of iemand er actief aan werkt of niet. Wanneer alles vlot verloopt (gegeven dat de taken voldoende zijn opgesplitst) zou geen enkele taak meer dan een paar stippen moeten krijgen. Als het aantal stippen begint op te lopen, weet je dat er iets mis is en dat het nodig is hierover te praten.
 
-Stippen zetten is een simpele en krachtige manier om problemen en knelpunten bloot te leggen. Hetzelfde principe kan worden toegepast voor andere kolommen, zoals 'Wachten op code review', maar teken -in plaats van stippen- een lijn of gebruik een andere kleur voor de stippen.
+Stippen zetten is een simpele en krachtige manier om problemen en knelpunten zichtbaar te maken. Hetzelfde principe kan worden toegepast voor andere kolommen, zoals 'Wachten op code review', maar teken -in plaats van stippen- een lijn of gebruik een andere kleur voor de stippen.
 
 ---
 

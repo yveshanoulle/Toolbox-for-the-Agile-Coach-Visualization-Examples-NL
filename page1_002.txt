@@ -14,8 +14,8 @@ http://www.facebook.com/visualizationexamples
 
 2:
 
-Toolbox voor de Agile CoachVisualization Voorbeelden
-Hoe excellente teams hun werk visualiseren
+Gereedschapskist voor de Agile Coach - Visualisatievoorbeelden
+Hoe uitstekende teams hun werk visualiseren
 (Versie 1.01)
 
 © 2015 Jimmy Janlén
@@ -42,7 +42,7 @@ http://www.facebook.com/visualizationexamples
 
 2:
 
-Toolbox for the Agile Coach Visualization Examples
+Toolbox for the Agile Coach - Visualization Examples
 How great teams visualize their work
 (Version 1.01)
 

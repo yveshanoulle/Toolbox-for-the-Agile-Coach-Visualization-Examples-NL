@@ -1,0 +1,13 @@
+﻿Legenda
+
+Een goede visualisatie die door het team gemaakt wordt, kan na verloop van tijd complexer worden doordat het team er steeds meer informatie aan toevoegt.
+
+Om het voor nieuwe teamleden en nieuwsgierige collega’s makkelijker te maken om het bord te begrijpen, kun je het bord voorzien van een legenda die de kleuren, icoontjes en symbolen verklaart.
+
+---
+Legend
+
+A good visualization that a team likes and continues to use over time tends to get more and more complex as the team adds more and more information to it.
+
+To make it easy to understand for new team members, and curious colleagues – provide a legend that explains the colors, icons and symbols.
+

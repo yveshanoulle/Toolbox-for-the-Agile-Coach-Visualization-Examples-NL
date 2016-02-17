@@ -1,11 +1,11 @@
-Dagen tot Demo.
+﻿Dagen tot Demo.
 
-"Dagen tot Demo" is een eenvoudige countdown tot de volgende demo. Het doel is om een bewustzijn te creëren en het team eraan te helpen herinneren dat de demo moet worden gepland en voorbereid.
-En natuurlijk ook om verwachtingen te wekken voor alle anderen.
+"Dagen tot Demo" is een eenvoudige countdown tot de volgende demo. Het doel is om een bewustzijn te creëren en het team eraan te herinneren dat de demo moet worden gepland en voorbereid.
+En natuurlijk ook om verwachtingen op te wekken bij anderen.
 
-Het toont gewoon het aantal dagen tot de demo. Op de laatste dag zal er "Vandaag om 14u" staan (of iets dergelijks).
+Het toont simpelweg het aantal dagen tot de demo. Op de laatste dag staat er "Vandaag om 14u" (of iets dergelijks).
 
-Bij voorkeur staat het op een heel zichtbare plaats, zoals bij de koffiemachine of naast de toiletten. En inderdaad, zo een manuele teller moet door iemand aangepast worden. Dit kan positief zijn omdat het het team eraan herinnert dat de dag nadert.
+Bij voorkeur staat het op een duidelijk zichtbare plek, zoals bij de koffiemachine of naast de toiletten. En inderdaad, een handmatige teller moet door iemand aangepast worden. Dit kan positief zijn omdat het het team eraan herinnert dat de dag nadert.
 
 --
 Days ‘til Demo
