@@ -1,6 +1,6 @@
 ﻿Welkom
 
-Dit is een boek gevuld met visualisatievoorbeelden om teams te helpen hun samenwerking en communicatie te verbeteren en tevens gedrag te vormen. Het is geschreven voor mensen en teams die werken in een agile softwareontwikkelomgeving.
+Dit is een boek gevuld met visualisatievoorbeelden om teams te helpen hun samenwerking en communicatie te verbeteren en tevens gedrag te vormen. Het is geschreven voor mensen en teams die werken in een Agile software-ontwikkelomgeving.
 
 Dit boek geeft alleen voorbeelden en niets anders. Geen diepe theoretische uitleg. Geen uitleg van Agile of Scrum. Geen referenties naar Gamification. Geen discussie over hoe het brein visuele invoer verwerkt of hoe ons gedrag wordt beïnvloed door visuele informatie. Er bestaan andere boeken over die onderwerpen.
 
