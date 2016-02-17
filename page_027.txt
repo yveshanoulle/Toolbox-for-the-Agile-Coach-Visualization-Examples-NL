@@ -1,10 +1,10 @@
-Bomicoon
+﻿Bomicoon
 
-Een team waarmee ik werkte stopte met het gebruik van de Prioritaire baan . Hij werd misbruikt, was altijd vol met “belangrijke” taken en belemmerde de mogelijkheid om te kunnen focussen en plannen.
+Een team waarmee ik werkte stopte met het gebruik van de Urgentiebaan. Hij werd misbruikt, was altijd vol met “belangrijke” taken en belemmerde de mogelijkheid om te kunnen focussen en plannen.
 
-Daar alle taken gekoppeld waren aan een story was er geen mogelijkheid om een urgente taak op de muur te plaatsen totdat een rij op het Kanbanbord leeg was. Dit verontrustte de Product Owner. Dus kreeg de Product Owner één (één!) Bomicoon. Hij kon deze toekennen aan iedere taak die hij wilde. Iedereen die kon helpen stopte met zijn werk en werkte vervolgens aan de taak met Bomicoon totdat die af was.
+Daardat alle taken gekoppeld waren aan een story, was er geen mogelijkheid om een urgente taak op de muur te plaatsen totdat een rij op het Kanbanbord leeg was. Dit verontrustte de Product Owner. Dus kreeg de Product Owner één (één!) Bomicoon. Hij kon deze toekennen aan iedere taak die hij wilde. Iedereen die kon helpen stopte met zijn werk en werkte vervolgens aan de taak met Bomicoon totdat die af was.
 
-(De Bomicoon werd hoe langer hoe minder gebruikt, daar de moeilijkheden en kosten van zijn gebruik snel duidelijk werden.)
+(De Bomicoon werd hoe langer hoe minder gebruikt, omdat de moeilijkheden en de kosten van het gebruik snel duidelijk werden.)
 
 --------------------------------------------------------------------------------
 
