@@ -1,8 +1,8 @@
-Legenda
+﻿Legenda
 
-Een goede visualisatie die door het team gemaakt wordt, kan na verloop van tijd complex worden doordat het team er steeds meer informatie aan toevoegt.
+Een goede visualisatie die door het team gemaakt wordt, kan na verloop van tijd complexer worden doordat het team er steeds meer informatie aan toevoegt.
 
-Om het voor nieuwe teamleden en nieuwsgierige collega’s makkelijker te maken het bord te begrijpen, kan je het bord voorzien van een legenda die de kleuren, icoontjes en symbolen verklaart.
+Om het voor nieuwe teamleden en nieuwsgierige collega’s makkelijker te maken om het bord te begrijpen, kun je het bord voorzien van een legenda die de kleuren, icoontjes en symbolen verklaart.
 
 ---
 Legend
