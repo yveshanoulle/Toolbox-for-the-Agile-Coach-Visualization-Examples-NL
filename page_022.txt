@@ -1,8 +1,8 @@
-Afwezigheidskalender
+﻿Afwezigheidskalender
 
-Deze kalender toont aan wanneer personen afwezig zijn van kantoor en iets ander doen, om zo de "Weet iemand waar Julie is vandaag?"-momenten te vermijden.
+Deze kalender laat zien wanneer mensen niet aanwezig zijn op kantoor omdat ze iets anders moeten doen, om zo de "Weet iemand waar Julie vandaag is?"-vragen te vermijden.
 
-Elk teamlid schrijft zijn of haar naam op de datum als ze op voorhand weten wanneer ze afwezig zijn, een cursus bijwonen of iets anders doen. De kalender kan ook feestdagen en andere belangrijke gebeurtenissen markeren.
+Elk teamlid schrijft zijn of haar naam op de datum als ze op voorhand weten wanneer ze afwezig zijn, een cursus bijwonen of iets anders doen. De kalender kan ook rekening houden met feestdagen en andere belangrijke gebeurtenissen.
 
 De gele pijl duidt de huidige dag aan en wordt verzet voor elke Daily Stand-up.
 
