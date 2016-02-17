@@ -40,6 +40,6 @@ Waste ==> Verspilling
 Whiteboard ==> Whiteboard
 WIP-limit ==> WIP-limiet
 Working agreement ==> werkafspraken
-
+Lane priority ==> Baanprioriteit
 
 
