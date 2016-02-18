@@ -60,9 +60,11 @@ States ==> statussen
 Story ==> Story
 Stress level meter ==> xxx
 
+Task Progress Bar ==> Taakvoortgangsbalk
 Ticket ==> Ticket
 Toolbox for the Agile Coach ==> Gereedschapskist voor de Agile Coach
 
+Updaten ==> updaten of bijwerken?
 Urgent lane ==> Prioritaire baan 
 User Story lane ==> User Story-baan
 
