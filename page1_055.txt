@@ -1,6 +1,6 @@
 Astrid
 
-Taakschattings-check boxes
+Check boxes voor het schatten van taken
 
 Een simpele manier om erachter te komen of dingen langer duren dan verwacht, is het werk voor een taak weer te geven met check boxes. Twee check boxes staan bijvoorbeeld voor een volle dag werk.
 
