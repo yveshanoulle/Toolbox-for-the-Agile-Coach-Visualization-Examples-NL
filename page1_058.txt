@@ -2,7 +2,7 @@ Parkeren per Persoon
 
 Sommige teams die ik ben tegengekomen met een Parkeerplaats maken het duidelijk wie aan de taak aan het werk was voordat die op de Parkeerplaats terecht kwam door de Post-its te groeperen per team lid.
 
-Wanneer een taak gepauseerd is verplaatst men de Post-it naar de rij van die persoon op de Parkeerplaats. Wanneer die persoon, of iemand anders, de taak weer oppakt gaat ie terug naar zijn originele plek op het Sprintbord.
+Wanneer een taak gepauseerd is verplaatst men de Post-it naar de rij van die persoon op de Parkeerplaats. Wanneer die persoon, of iemand anders, de taak weer oppakt gaat ie terug naar zijn originele plek op de muur.
 
 
 Parked by Person
