@@ -1,6 +1,6 @@
 Astrid
 
-Pair Programming-Matrix
+Pair Programming Matrix
 
 Probeer je meer pair programming te doen in je team? Wil je visualiseren hoeveel er gepaird wordt gedurende een bepaalde periode? Probeer dan een Pair Progranmming Matrix.
 
