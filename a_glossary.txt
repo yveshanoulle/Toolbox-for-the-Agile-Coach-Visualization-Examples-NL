@@ -58,6 +58,7 @@ Retrospective ==> retrospective
 
 States ==> statussen
 Story ==> Story
+Stories ==> Story's of Stories?
 Stress level meter ==> xxx
 
 Task Progress Bar ==> Taakvoortgangsbalk
