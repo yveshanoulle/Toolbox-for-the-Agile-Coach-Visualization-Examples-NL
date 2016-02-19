@@ -4,7 +4,7 @@ Stop bij het maken van taken (dus het opsplitsen van het werk dat gedaan moet wo
 
 Deze regel maakt het eenvoudiger om voortgang en eventuele bottlenecks te zien. Het geeft ook aanleiding voor dieper inhoudelijke discussies tijdens de planningsessies.
 
-Verder zie je snel met behulp van stippen zetten dat er iets niet in de haak is als een taak meerdere stippen verzamelt. Geen enkele taak zou immers meer dan 1 stip mogen krijgen.
+Verder zie je snel, met behulp van stippen zetten, dat er iets niet in de haak is als een taak meerdere stippen verzamelt. Geen enkele taak zou immers meer dan 1 stip mogen krijgen.
 
 Als je een Sprint Burndown gebruikt, kun je in plaats van het tellen van uren ook gewoon het aantal taken tellen. Veel sneller!
 
