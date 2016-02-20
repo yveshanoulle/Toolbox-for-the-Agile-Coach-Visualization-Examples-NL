@@ -4,9 +4,9 @@ Check boxes voor het schatten van taken
 
 Een simpele manier om erachter te komen of dingen langer duren dan verwacht, is het werk voor een taak weer te geven met check boxes. Twee check boxes staan bijvoorbeeld voor een volle dag werk.
 
-Gedurende de Daily Stand-Up kruis je een box af voor elke tijdseenheid die je eraan gewerkt hebt. Blijf ook afkruisen wanneer er eigenlijk geen boxes meer staan. Hierdoor krijg je snel inzichtelijk dat dingen moeilijker zijn dan initieel ingeschat, hierdoor kan er een gesprek plaatsvinden over hoe het team kan helpen.
+Gedurende de Daily Stand-Up kruis je een box af voor elke tijdseenheid die je eraan gewerkt hebt. Blijf ook afkruisen wanneer er eigenlijk geen boxes meer staan. Hierdoor krijg je snel inzichtelijk dat dingen moeilijker zijn dan initieel ingeschat en kan er een gesprek plaatsvinden over hoe het team kan helpen.
 
-Deze inschatting kan plaatsvinden gedurende de sprintplanning, maar ook wanneer een taak van "Planned" naar "Doing" gaat.
+Deze inschatting kan plaatsvinden gedurende de Sprint Planning, maar ook wanneer een taak van "Planned" naar "Doing" gaat.
 
 Task Estimation Boxes
 
