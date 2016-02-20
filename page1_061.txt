@@ -4,7 +4,7 @@ Pauze-icoon
 
 Soms wil je het werk voor een taak even "pauzeren" omdat iets anders belangrijker is. Het hoeft niet zo te zijn dat iets je verhindert om de taak af te maken, maar je bent er gewoon even niet mee bezig.
 
-Om dat helder en transparant te maken kun je een Pauze-icoon op de taak hangen. En voor extra duidelijkheid laat je je avatar wel op de taak hangen om aan te geven dat jij eraan aan het werk was.
+Om dat helder en transparant te maken kun je een Pauze-icoon op de taak hangen. Voor extra duidelijkheid laat je je avatar wel op de taak hangen om aan te geven dat jij eraan aan het werk was.
 
 Een andere manier om hiermee om te gaan is gebruik te maken van de "Parkeerplaats".
 
