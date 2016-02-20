@@ -1,4 +1,4 @@
-Ruimte beperking
+Beperken van ruimte
 
 Wanneer je team Kanban of een variant van Scrumban gebruikt en ze hebben moeite om de WIP limieten te respecteren dan kan deze aanpak misschien helpen.
 
