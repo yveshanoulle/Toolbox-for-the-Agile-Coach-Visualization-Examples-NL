@@ -4,7 +4,7 @@ Pair Programming Matrix
 
 Probeer je meer pair programming te doen in je team? Wil je visualiseren hoeveel er gepaird wordt gedurende een bepaalde periode? Probeer dan een Pair Progranmming Matrix.
 
-Wanneer je een pairing sessie gedaan hebt, vink dan de corresponderende box aan. Spreek als team met elkaar af wanneer iets telt als pairen.
+Wanneer je een pairing sessie hebt gedaan, vink dan de corresponderende box aan. Spreek als team met elkaar af wanneer iets telt als pairen.
 
 Spreek af wanneer je een review van de matrix doet en de resultaten gaat bespreken. Wanneer je het gebruik van de matrix wilt voortzetten, maak hem dan "schoon" en spreek een nieuwe reviewdatum af.
 
