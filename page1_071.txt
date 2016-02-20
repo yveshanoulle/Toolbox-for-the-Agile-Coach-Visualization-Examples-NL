@@ -2,9 +2,9 @@ Beperken van ruimte
 
 Wanneer je team Kanban of een variant van Scrumban gebruikt en ze hebben moeite om de WIP limieten te respecteren dan kan deze aanpak misschien helpen.
 
-Inplaats van WIP limieten op te schrijven kun je de ruimte op het bord aanpassen. Maak de ruimte waar de Post-its moeten hangen zo klein dat er niet meer Post-its inpassen dan de WIP limiet toelaat.
+In plaats van WIP limieten op te schrijven kun je de ruimte op het bord aanpassen. Maak de ruimte waar de Post-its moeten hangen zo klein dat er niet meer Post-its inpassen dan de WIP limiet toelaat.
 
-Deze aanpak maakt het meteen duidelijk wanneer een WIP limiet ergens gebroken wordt, kijk gewoon waar de Post-its zich opstapelen.
+Deze aanpak maakt meteen duidelijk wanneer een WIP limiet ergens gebroken wordt, kijk gewoon waar de Post-its zich opstapelen.
 
 
 Limit by Space
