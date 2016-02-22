@@ -1,6 +1,6 @@
-Parkeren per Persoon
+﻿Parkeren per Persoon
 
-Sommige teams die ik ben tegengekomen met een pParkeerplaats maken het duidelijk wie aan de taak aan het werk was voordat die op de Parkeerplaats terecht kwam door de Post-its te groeperen per team lid.
+Sommige teams die ik heb ontmoet (en gebruik maken van een Parkeerplaats), maken duidelijk wie aan de taak bezig was voordat die op de Parkeerplaats terecht kwam door de Post-its te groeperen per team lid.
 
 Wanneer een taak is gepauseerd, verplaatst je de Post-it naar de rij van die persoon op de Parkeerplaats. Wanneer die persoon, of iemand anders, de taak weer oppakt gaat de taak terug naar zijn originele plek op de muur.
 
