@@ -1,10 +1,10 @@
-Nieuws van de Dag
+﻿Nieuws van de Dag
 
 Veel teams starten of eindigen hun Daily Stand-up met een moment om algemene informatie te delen.
 
 Om de kans kleiner te maken dat je iets belangrijks vergeet te delen met je team, voeg je een nieuwsberichttitel toe aan het "Nieuws van de Dag"-gebied op het whiteboard, zodra het onderwerp in je opkomt.
 
-Wanneer het nieuws of de informatie met elkaar is gedeeld, wordt deze gewist op het whiteboard, zodat er weer nieuwe berichten voor de volgende dag kunnen worden toegevoegd.
+Wanneer het nieuws of de informatie met elkaar is gedeeld, wordt deze gewist van het whiteboard, zodat er weer nieuwe berichten voor de volgende dag kunnen worden toegevoegd.
 
 
 -----------
