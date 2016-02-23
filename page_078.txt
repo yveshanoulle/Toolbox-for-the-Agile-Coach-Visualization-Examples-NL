@@ -1,6 +1,6 @@
-Piramidebacklog
+﻿Piramidebacklog
 
-In plaats van de User Stories in je backlog te sorteren in een strike volgorde, probeer ze te sorteren in een piramidebacklog. In de Backlogpiramide, kan er één sotory zijn met topprioriteit. Maar naarmate je verder naar beneden gaat in de piramide, sta je jezelf meer en meer stories op het zelfde prioriteitsniveau toe. Wanneer de bovenste positie leeg is (d.w.z. het team heeft het opgepakt) "borrelt" de rest van de stories omhoog in de piramide.
+In plaats van de User Stories in je backlog te sorteren in een strikte volgorde, probeer je ze te sorteren in een piramidebacklog. In de Backlogpiramide, kan er één story zijn met topprioriteit. Maar naarmate je verder naar beneden gaat in de piramide, sta je jezelf meer en meer stories op het zelfde prioriteitsniveau toe. Wanneer de bovenste positie leeg is (d.w.z. het team heeft het opgepakt) "borrelt" de rest van de stories omhoog in de piramide.
 
 Je kan ook regels opleggen over inschattingen. Bijvoorbeeld; stories op prioriteitsniveau drie of hoger moeten kleiner dan 8 punten zijn. Voordat een story naar prioriteitsniveau 5 of daarboven kan klimmen, moet de grootte ingeschat zijn. En zo verder. 
 
