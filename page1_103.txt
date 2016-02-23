@@ -1,3 +1,17 @@
+﻿Afhankelijkheidsbord
+
+Wanneer een team ontdekt dat ze iets nodig hebben van een ander team (om hun eigen werk te kunnen starten), voegen ze dit toe aan het gedeelde afhankelijkheidsbord.  "We hebben <rood> nodig voor we kunnen starten met <geel>".  De notities zijn verbonden met een koord.
+
+Het bord wordt regelmatig nagekeken door de teams, bijvoorbeeld tijdens de Scrum der Scrums. Wanneer een rode notitie is opgelost, wordt de gele post-it ook verwijderd.
+
+Het afhankelijkheidsbord kan teams helpen plannen, taken op te delen, noodzakelijke technische samenwerking te voorzien en om alternatieve manieren te vinden om elkaar te helpen.
+
+Update suggestie:
+Eens een rode notitie opgelost is
+Indien een rode notitie opgelost is
+
+--------------------------------------
+
 Dependancy Board
 
 When a team discovers that they need something from another team (in order to begin their own work), they add that to the shared Dependency Board. “We need <red> before we can start with <yellow>”. The notes are connected with a string.
@@ -5,16 +19,3 @@ When a team discovers that they need something from another team (in order to be
 The board is regularly reviewed by the teams, for instance during the Scrum of Scrums. Once a red note has been resolved the connected yellow Post-its is removed as well.
 
 The Dependency Board can help teams to plan, slice features, foresee needed technical collaboration, as well as finding alternative ways of helping each other.
-
---------------------------------------
-Afhankelijkheidsbord
-
-Wanneer een team ontdekt dat ze iets nodig hebben van een ander team (om hun eigen werk te kunnen starten), voegen ze dit toe aan het gedeelde afhankelijkheidsbord.  "We hebben <rood> nodig voor we kunnen starten met <geel>".  De notities zijn verbonden met een koord.
-
-Het bord wordt regelmatig nagekeken door de teams, bijvoorbeeld tijdens de Scrum der Scrums.  Eens een rode notitie opgelost is, wordt de gele post-it ook verwijderd.
-
-Het afhankelijkheidsbord kan teams helpen plannen, taken op te delen, noodzakelijke technische samenwerking te voorzien en ook alternatieve manier te vinden om elkaar te helpen.
-
-Update suggestie:
-Eens een rode notitie opgelost is
-Indien een rode notitie opgelost is
