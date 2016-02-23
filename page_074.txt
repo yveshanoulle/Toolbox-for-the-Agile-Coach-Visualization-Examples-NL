@@ -1,6 +1,6 @@
-Beoordelings Queue
+﻿Beoordelings Queue
 
-Een HR-team waar ik samen mee aan het werken was, had een lange lijst van de wiki-pagina's met een beschrijving van verschillende beleids- en richtlijnen. Ze vermoedden dat veel van deze herzien en geactualiseerd moesten worden. Dus hebben we een richtlijn beoordelings wachtrij gecreëerd. Elke week werd één polis herzien en bijgewerkt. Sommige updates moesten nog goedkeuring van iemand anders krijgen dus gingen ze door middel van een "Om te worden erkend" box. Eenmaal gedaan, werd het ticket verplaatst naar het einde van de wachtrij. De volgorde en de inhoud van de wachtrij werd herschikt wanneer nodig.
+Een HR-team waar ik samen mee aan het werken was, had een lange lijst van de wiki-pagina's met een beschrijving van verschillende beleids- en richtlijnen. Ze vermoedden dat veel van deze herzien en geactualiseerd moesten worden. Dus hebben we een beoordelings wachtrij voor richtlijnen gecreëerd. Elke week werd één polis herzien en bijgewerkt. Sommige updates moesten nog goedkeuring van iemand anders krijgen, dus gingen ze door middel van een "Wachten op akkoord" box. Eenmaal gedaan, werd het ticket verplaatst naar het einde van de wachtrij. De volgorde en de inhoud van de wachtrij werd herschikt wanneer nodig.
 
 Dezelfde aanpak kan uiteraard worden toegepast op technische documentatie, website content, veelgestelde vragen, handleidingen, etc.
 
