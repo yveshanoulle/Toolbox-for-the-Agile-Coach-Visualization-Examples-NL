@@ -1,4 +1,4 @@
-Astrid
+﻿Astrid
 
 Stemmingsthermometer
 
@@ -6,7 +6,7 @@ De stemmingsthermometer is een bord met een touw waaraan je een wasknijper met j
 
 Je kunt deze wijzigen wanneer je wilt, één keer per week, of zelfs meerdere keren per dag.
 
-Wanneer je als team beter wilt worden in het delen van je stemming en hoe je je voelt is dit een makkelijke manier om een dialoog teweeg te brengen. Wanneer iemand zich niet goed voelt wil je waarschijnlijk weten of er iets is dat je kunt doen om deze persoon te helpen. Het geeft ook inzicht in de algemene stemming van het team.
+Wanneer je als team beter wilt worden in het delen van je stemming, en hoe je je voelt, is dit een makkelijke manier om een gesprek te starten. Wanneer iemand zich niet goed voelt wil je waarschijnlijk weten of er iets is dat je kunt doen om deze persoon te helpen. Het geeft ook inzicht in de algemene stemming van het team.
 
 Team Mood Barometer
 
