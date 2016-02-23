@@ -1,8 +1,8 @@
-Astrid
+﻿Astrid
 
 Verbeterthema
 
-Het verbeterthema is een middel in de vorm van een poster, dat werkt als een lopende band voor continu verbeteren nadat de Retrospective voorbij is. Beschrijf de huidige situatie in het rode deel. Definieer dan hoe de situatie eruit zou zien wanneer alles fantastisch is in het groene deel. Vraag jezelf vervolgens af welke realistische en concrete doelen gesteld kunnen worden die je dichter bij je "Definitie van Fantastisch" (zes weken van nu) kunnen brengen. Bepaal vervolgens de eerste drie kleine stappen die je kunt nemen om dichterbij je einddoel te komen.
+Het verbeterthema is een hulpmiddel in de vorm van een poster, dat als een lopende band werkt voor continu verbeteren nadat de Retrospective voorbij is. Beschrijf de huidige situatie in het rode deel. Definieer dan hoe de situatie eruit zou zien wanneer alles fantastisch is in het groene deel. Vraag jezelf vervolgens af welke realistische en concrete doelen gesteld kunnen worden die je dichter bij je "Definitie van Fantastisch" (zes weken van nu) kunnen brengen. Bepaal vervolgens de eerste drie kleine stappen die je kunt nemen om dichterbij je einddoel te komen.
 
 Gebruik de Daily Stand-up om te kijken naar de status van de stappen en om nieuwe acties toe te voegen zodra andere zijn afgerond. Evalueer de poster zodra de zes weken voorbij zijn en creëer een nieuwe "Doelconditie".
 
