@@ -1,8 +1,8 @@
-Sprint Info
+﻿Sprint Info
 
-Waarom hangen we niet de details van de sprint aan de muur terwijl we een sprint planning doen? Ik heb veel teams gezien die echt creatieve Sprint Informatie hadden.
+Waarom hangen we niet de details van de sprint aan de muur terwijl we een sprint planning doen? Ik heb veel teams meegemaakt die zeer creatieve 'Sprint Informatie'-gebieden hadden.
 
-Afgezien van het ID (of nummer) van de sprint, zou ook het doel van de sprint kunnen worden aangegeven. Sommige teams geven hun sprints ook een naam volgens bepaalde thema's (NASA missies, rocksterren, super helden etc.) En natuurlijk kun je andere zaken toevoegen zoals  een begin- en einddatum, het aantal mensen in het team deze sprint, de datum van de demo, enzovoort.
+Afgezien van het ID (of nummer) van de sprint, kan ook het doel van de sprint weergegeven worden. Sommige teams geven hun sprints ook een thematische naam (NASA missies, rocksterren, super helden etc.) En natuurlijk kun je andere zaken toevoegen zoals een begin- en einddatum, het aantal mensen in het team deze sprint, de datum van de demo, enzovoort.
 
 -------------------------
 
