@@ -1,10 +1,10 @@
-Tip van de dag
+﻿Tip van de dag
 
-Waarom zou je de kennisdeling binnen een team niet verbeteren simpelweg door de "Tip van de dag" te delen? Zo kan iedereen geleidelijk efficienter werken met de beschikbare tools. 
+Waarom zou je de kennisdeling binnen een team niet verbeteren door simpelweg wwn "Tip van de dag" te delen? Zo kan iedereen geleidelijk efficienter werken met de beschikbare tools. 
 
 Het kan een snelkoppeling zijn, een coole verborgen functie van je IDE of andere tool, of iets anders slims dat je werk eenvoudiger kan maken. 
 
-Zo gauw als je iets nieuws leert door een blog te lezen, een YouTube tutorial te bekijken of samen te werken met iemand anders: deel het!
+Direct wanneer je iets nieuws leert, door een blog te lezen, een YouTube tutorial te bekijken of samen te werken met iemand anders: deel het!
 
 ---
 
