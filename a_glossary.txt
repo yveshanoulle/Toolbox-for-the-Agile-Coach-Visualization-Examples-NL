@@ -78,6 +78,7 @@ Whiteboard ==> Whiteboard
 WIP-limit ==> WIP-limiet
 Working agreement ==> werkafspraken
 
+You ==> je, jou (geen u of uw)
 
 
 
