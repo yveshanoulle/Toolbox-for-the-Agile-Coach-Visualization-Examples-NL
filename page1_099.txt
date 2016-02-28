@@ -1,0 +1,18 @@
+﻿Guide Board
+
+Leg de werkmethodes en methodiek die je afgesproken hebt tijdens de retrospectives vast op Post-its. Het effectief vastleggen van een werkwijze in een tekening zorgt ervoor dat die gemakkelijker te onthouden is, veroorzaakt goede discussies en zorgt dat het Guide Board makkelijker te lezen is voor het team. Voeg voor iedere sprint een nieuwe kolom toe.
+
+Als een methodiek of overeenkomst slecht wordt nageleefd, plaats de Post-it dan in de "Onder Observatie" kolom. In de volgende retro evalueer je dan of de werkwijze beter wordt gevolgd en plak je hem terug op de plek waar hij vandaan kwam of sluit je hem met een blauwe Post-it.
+
+Wanneer een methodiek vervangen wordt of verouderd is, vervang je hem door een blauwe Post-it. De voorkant van de blauwe Post-it bevat de gegevens van de Sprint waarin deze verviel, op de achterkant van de Post-it beschrijf je de reden waarom deze kwam te vervallen.
+
+
+
+
+Guide Board
+
+Capture the working agreement policies from retrospectives by drawing and writing on Post-its. Actually portraying the policy in a drawing makes the policy easier to remember, stirs great discussions and makes the Guide Board easier to read for the team. For each, sprint add a new column. 
+
+If a policy is poorly followed, push the Post-it down to the “Under Observation” row. In the next retro evaluate your ability to follow the policy, and then either put it back into its place or close it with a blue note.
+
+When a policy becomes replaced or deprecated, put a blue sticker on the policy. The front of the blue Post-it states the sprint during which it became obsolete and the back side of the Post-it describes the reason why it became deprecated. 
