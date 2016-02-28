@@ -1,0 +1,13 @@
+Release Train Vertrektijden
+
+Als je team het werk moet plannen rond release trains, waarom visualiseer je dan niet de verschillende release trains en van elke release train de eerstvolgende vertrektijden. Elke "rij" toont de gebeurtenissen van elke train; zoals de uiterste commit datum, code freeze moment, testfase of tijdstippen wanneer de app aangeboden wordt bij de Apple App Store of Google Play.
+
+Vandaag kan aangegeven worden door een verplaatsbaar koordje. Magic flip-overs (zelfklevende plastic posters) zijn handig omdat het gemakkelijk is om na verloop van tijd nieuwe toe te voegen (en de oude te verwijderen).
+
+--------------------
+
+Release Train Departures
+
+If your team have to plan your work according to release train departures, why not visualize the different release trains and each release train’s upcoming departures. Each “row” shows the events for each train; such as latest commit date, code freeze date, test phase or dates when the app is submitted to apple the Apple App Store or to Google Play.
+
+Today could be visualized by a movable string. Magic flipcharts (self-adhesive plastic posters) are useful since it is easy to add new ones (and remove old ones) as time goes by.

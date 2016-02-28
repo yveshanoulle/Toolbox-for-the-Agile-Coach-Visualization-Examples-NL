@@ -1,8 +1,8 @@
 Geïnvesteerde tijd
 
-Wilt u een lichte benadering van je geïnvesteerde tijd tonen aan je stakeholders?
+Wil je een eenvoudige manier om de geïnvesteerde tijd voor te stellen aan je stakeholders?
 
-Aan het einde van elke week, sprint of maand, maak je een ruwe schatting van de gespendeerde tijd. Elk lid tekent 10 staven. Elke staaf vertegenwoordigd 10% van de geinvesteerde tijd. Deze tijd wordt onderverdeeld in categorieën zoals; toekomstige ontwikkelingen, bug fixes en onderhoud, technische investeringen en snelle/paniek oplossingen.
+Maak aan het einde van elke week, sprint of maand, een ruwe schatting van de gespendeerde tijd. Elk teamlid tekent 10 streepjes. Elk streepje vertegenwoordigt 10% van de geïnvesteerde tijd. Deze tijd wordt onderverdeeld in categorieën zoals; ontwikkeling, bug fixes en onderhoud, technisch werk en nood fixes.
 
 ------------------------
 

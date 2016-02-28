@@ -15,7 +15,10 @@ Boxes ==> vierkantjes
 Bug ==> Bug
 
 Check-in ==> Check-in
+Code (programmeren) ==> Code
+Code freeze ==> Code freeze
 Colocated ==> xxx
+Commit ==> Commit
 
 Daily Stand-up ==> Daily Stand-up
 Digital => xxx
@@ -55,7 +58,9 @@ Promiscuous Map => xxx
 Queue ==> Wachtrij
 
 Retrospective ==> retrospective
+Release Train ==> Release Train
 
+Stakeholders ==> Stakeholders 
 States ==> statussen
 Story ==> Story
 Stories ==> Stories
