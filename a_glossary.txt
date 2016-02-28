@@ -45,8 +45,9 @@ Kudos => xxx
 
 Lane ==> Baan 
 Lane priority ==> Baanprioriteit
-
 LEGO ==> xxx
+
+Meeting => Bijeenkomst
 
 Pair programming ==> Pair programming
 Pair Programming Matrix => xxx
