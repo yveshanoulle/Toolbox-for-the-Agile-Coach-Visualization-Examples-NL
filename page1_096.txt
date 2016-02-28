@@ -2,10 +2,10 @@ Mogelijkheden per persona
 
 In plaats van een backlog van User Stories, heb ik teams gezien met backlogs van mogelijkheden gecategoriseerd per persona. De backlogs van mogelijkheden voeden de roadmap en de User Story Backlog van het team.
 
-Een mogelijkheid is beschreven als:
-Wat is het probleem dat we proberen op te lossen? Welke behoefte zijn we aan het exploiteren? (Waarom zouden we dit moeten doen?)
-Voor wie zijn we aan het proberen om dit probleem op te lossen? (Persona)
-Succescriteria. Hoe weten we wanneer we zijn geslaagd?
+Een mogelijkheid wordt omschreven als:
+Wat is het probleem dat we proberen op te lossen? Welke behoefte lenigen we? (Waarom zouden we dit moeten doen?)
+Voor wie proberen dit probleem op te lossen? (Persona)
+Succescriteria. Hoe weten we wanneer we geslaagd zijn?
 
 ---
 

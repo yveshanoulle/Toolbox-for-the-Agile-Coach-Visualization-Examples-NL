@@ -59,6 +59,7 @@ Queue ==> Wachtrij
 
 Retrospective ==> retrospective
 Release Train ==> Release Train
+Roadmap ==> Roadmap
 
 Stakeholders ==> Stakeholders 
 States ==> statussen
@@ -72,6 +73,7 @@ Toolbox for the Agile Coach ==> Gereedschapskist voor de Agile Coach
 
 Updaten ==> updaten of bijwerken?
 Urgent lane ==> Prioritaire baan 
+User Stories ==> User Stories
 User Story lane ==> User Story-baan
 
 Visualization ==> Visualisatie
