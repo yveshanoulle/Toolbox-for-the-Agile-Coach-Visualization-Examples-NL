@@ -1,10 +1,10 @@
 Concept Kubussen
 
-In plaats van een samenvatting van de resultaten van een workshop op een poster, of het hebben van werkafspraken "op uw whiteboard" - Creëer een fysieke kubus! Eén zijde kan de naam van de kubus tonen en anderen bevatten tekst en afbeeldingen. Een kubus nodigt uit tot nieuwsgierigheid! Ik heb mensen gezien die meer geneigd zijn om een kubus op te pakken, dan om even te stoppen en een poster te lezen.
+In plaats van op een poster een samenvatting te maken van de resultaten van een workshop, of het bijhouden van afspraken op je whiteboard, creëer een fysieke kubus! Op eén zijde kan de naam van de kubus staan, op de andere tekst en afbeeldingen. Een kubus veroorzaakt nieuwsgierigheid! Ik heb mensen gezien die eerder geneigd zijn om een kubus op te pakken, dan om even te stoppen en een poster te lezen.
 
 Voorbeelden van kubussen:
 Vergaderingen. Elke kant beschrijft het doel en het resultaat van de verschillende vergaderingen (Dagelijkse Stand-Up, Planning, Retrospectieve, etc), alsook de standaard vergader routine.
-Werkafspraken (Definitie van Done, Definitie van Ready, Gedrags afspraken, manier van werken, enz.).
+Werkafspraken (Definitie van Done, Definitie van Ready, manier van werken of gedragen, enz.).
 De verwachtingen van de rollen (Scrum Master, Product Owner, Teamlid, Development Manager, etc.).
 
 ------------
