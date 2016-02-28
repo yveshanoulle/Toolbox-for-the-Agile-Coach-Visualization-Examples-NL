@@ -68,6 +68,7 @@ Stories ==> Stories
 Stress level meter ==> xxx
 
 Task Progress Bar ==> Taakvoortgangsbalk
+Template ==> Sjabloon
 Ticket ==> Ticket
 Toolbox for the Agile Coach ==> Gereedschapskist voor de Agile Coach
 
