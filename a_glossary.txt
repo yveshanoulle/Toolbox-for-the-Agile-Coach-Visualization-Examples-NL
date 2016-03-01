@@ -21,6 +21,8 @@ Colocated ==> xxx
 Commit ==> Commit
 
 Daily Stand-up ==> Daily Stand-up
+Definition of Done ==> xxx
+Definition of Ready ==> xxx
 Digital => xxx
 Dis-located team -> xxx
 Dotting ==> xxx
@@ -29,7 +31,7 @@ Epic ==> Epic
 Examples ==> Voorbeelden
 Envelopper Collectors ==> Verzamel-enveloppen
 
-Flipchart --> Paper-board
+Flipchart --> xxx
 
 Hat ==> Pet
 High score ==> High-score
@@ -39,6 +41,7 @@ Hourglass Scrum Wall ==> Zandlopersprintbord
 Icon ==> Icoon
 Improvement Lane ==> Verbeterbaan
 Improvement theme ==> xxx
+Inbox ==> xxx
 Interruption buckets = Onderbrekingemmer
 
 Kudos => xxx 
@@ -49,6 +52,7 @@ LEGO ==> xxx
 
 Meeting => Bijeenkomst
 
+Pain ==> xxx
 Pair programming ==> Pair programming
 Pair Programming Matrix => xxx
 Pairing ==> Pairing
@@ -58,11 +62,12 @@ Promiscuous Map => xxx
 
 Queue ==> Wachtrij
 
+Race Track  ==> xxx p83
 Retrospective ==> retrospective
 Release Train ==> Release Train
 Roadmap ==> Roadmap
 
-Servant Leader Door ==> xxx
+Servant Leader Door ==> 
 Stakeholders ==> Stakeholders 
 States ==> statussen
 Story ==> Story
