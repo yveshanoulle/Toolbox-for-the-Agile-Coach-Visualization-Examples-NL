@@ -1,8 +1,8 @@
-﻿De koppelkaart
+﻿Duo Kaart
 
-Deze visualisatie is een manier om inzichtelijk te maken hoe vaak pairing plaatsvind en welke koppels er zijn. Het adresseert hetzelfde gedrag als de Pair Programming Matrix.
+Deze visualisatie is een manier om iunzicht te geven hoe vaak pairing plaatsvind en welke koppels er zijn. Het adresseert hetzelfde gedrag als de Pair Programming Matrix.
 
-Wanneer je met iemand pairt, trek dan een lijn tussen jezelf en de andere persoon in de Koppelkaart.
+Wanneer je met iemand pairt, trek dan een lijn tussen jezelf en de andere persoon op de Duo kaart.
 
 Na een aantal dagen ontstaat er een patroon. Hoeveel pairen we eigenlijk? Wie pairt er met wie? En willen we de patronen bewust doorbreken en beter worden in het pairen met andere mensen?
 

@@ -17,14 +17,14 @@ Bug ==> Bug
 Check-in ==> Check-in
 Code (programmeren) ==> Code
 Code freeze ==> Code freeze
-Colocated ==> xxx
+Colocated ==> Bijeengeplaats (team)
 Commit ==> Commit
 
 Daily Stand-up ==> Daily Stand-up
-Definition of Done ==> xxx
-Definition of Ready ==> xxx
-Digital => xxx
-Dis-located team -> xxx
+Definition of Done ==> Definitie van Gedaan
+Definition of Ready ==> Definitie van Klaar
+Digital => Digitaal
+Dis-located team -> Verspreid team
 Dotting ==> xxx
 
 Epic ==> Epic
