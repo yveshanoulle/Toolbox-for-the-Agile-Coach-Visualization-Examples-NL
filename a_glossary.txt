@@ -25,13 +25,13 @@ Definition of Done ==> Definitie van Gedaan
 Definition of Ready ==> Definitie van Klaar
 Digital => Digitaal
 Dis-located team -> Verspreid team
-Dotting ==> xxx
+Dotting ==> Stippen
 
 Epic ==> Epic
 Examples ==> Voorbeelden
 Envelopper Collectors ==> Verzamel-enveloppen
 
-Flipchart --> xxx
+Flipchart --> flip-overs
 
 Hat ==> Pet
 High score ==> High-score
@@ -40,29 +40,29 @@ Hourglass Scrum Wall ==> Zandlopersprintbord
 
 Icon ==> Icoon
 Improvement Lane ==> Verbeterbaan
-Improvement theme ==> xxx
-Inbox ==> xxx
+Improvement theme ==> Verbeterthema
+Inbox ==> Inbox
 Interruption buckets = Onderbrekingemmer
 
-Kudos => xxx 
+Kudos => Kudos 
 
 Lane ==> Baan 
 Lane priority ==> Baanprioriteit
-LEGO ==> xxx
+LEGO ==> LEGO
 
 Meeting => Bijeenkomst
 
-Pain ==> xxx
+Pain ==> Pijn
 Pair programming ==> Pair programming
-Pair Programming Matrix => xxx
+Pair Programming Matrix => Pair Programming Matrix
 Pairing ==> Pairing
 Parking Lot ==> Parkeerplaats
 Policies ==> Methodiek 
-Promiscuous Map => xxx
+Promiscuous Map => Duo kaart
 
 Queue ==> Wachtrij
 
-Race Track  ==> xxx p83
+Race Track  ==> Renbaan p83
 Retrospective ==> retrospective
 Release Train ==> Release Train
 Roadmap ==> Roadmap
@@ -72,7 +72,7 @@ Stakeholders ==> Stakeholders
 States ==> statussen
 Story ==> Story
 Stories ==> Stories
-Stress level meter ==> xxx
+Stress level meter ==> stressniveaumeter
 
 Task Progress Bar ==> Taakvoortgangsbalk
 Template ==> Sjabloon

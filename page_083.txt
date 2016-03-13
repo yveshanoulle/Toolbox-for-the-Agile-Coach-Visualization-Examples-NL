@@ -1,14 +1,14 @@
-Racebaan
+﻿Racebaan
 
-Waarom er niet voor kiezen om, in plaats van laatkomers bij de Daily Stand-up te bestraffen, juist de personen te belonen die op tijd zijn door ze toe te staan een stapje voorwaarts te doen op de racebaan? Degene die het verst op de racebaan komt aan het eind van de sprint wint een applaus en een groepsknuffel. Een race als dit kan ook gericht zijn op ander gedrag en acties, zoals...
+In plaats van laatkomers bij de Daily Stand-up te bestraffen, waarom zouden we er niet voor kiezen om de personen die op tijd zijn te belonen door ze toe te staan een stapje vooruit te doen op de renbaan. Degene die het verst op de renbaan komt aan het eind van de sprint wint een applaus en een groepsknuffel. Zo een wedstrijd kan ook gericht zijn op ander gedrag en acties, zoals...
 
 Oplossen van blokkades
 Een review doen van committed code
-Uitvoeren van restrospective acties
+Uitvoeren van acties uit de restrospective
 Afronden van taken
 Reviewen van code
 
-Je kunt de winnaar de regels van de volgende race laten kiezen, of het team die laten bepalen tijdens de Sprint Planning.
+Je kunt de winnaar de regels van de volgende race laten kiezen, of je laat het team die bepalen tijdens de Sprint Planning.
 
 Race Track
 

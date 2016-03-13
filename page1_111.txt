@@ -5,7 +5,7 @@ Ik wil leren... (pagina 91)
 Inbox (pagina 13)
 - Team Gaia, Spotify
 
-Kudomuur (pagina 49)
+Kudos muur (pagina 49)
 - Jurgen Appelo, http://www.jurgenappelo.com
 
 Pair Programming Matrix (pagina 59)
@@ -13,11 +13,11 @@ Pair Programming Matrix (pagina 59)
 Voortgangstaart (pagina 38)
 - Pétur Jóhannes Óskarsson, Plain Vanilla/QuizUp
 
-De koppeltjes kaart (pagina 80)
+Duo kaart (pagina 80)
 - Patrik Enqvist, Nordea
 Piramidebacklog (pagina 78)
 - Gunnar Holmsteinn, Plain Vanilla/QuizUp
-Racebaan (pagina 83)
+Renbaan (pagina 83)
 - Georg Olafsson, Meniga
 
 Rouleren van de facilitators hoed (pagina 33)
