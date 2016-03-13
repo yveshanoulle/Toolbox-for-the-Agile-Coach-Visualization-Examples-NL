@@ -8,7 +8,7 @@ De woorden worden op alfabetische volgorde van de Engels woorden gezet.
 After party ==> Afterparty
 Avatars ==> Avatars
 
-Backlog grooming => xxx
+Backlog grooming => Backlog onderhoud
 Board ==> Bord
 Bottleneck ==> Knelpunt
 Boxes ==> vierkantjes
