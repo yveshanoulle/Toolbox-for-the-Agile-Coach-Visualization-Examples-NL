@@ -67,7 +67,7 @@ Retrospective ==> retrospective
 Release Train ==> Release Train
 Roadmap ==> Roadmap
 
-Servant Leader Door ==> 
+Servant Leader Door ==> Servant Leader Deur
 Stakeholders ==> Stakeholders 
 States ==> statussen
 Story ==> Story
