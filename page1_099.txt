@@ -1,6 +1,6 @@
-﻿Guide Board
+﻿Gids Bord
 
-Leg de werkmethodes en methodiek die je afgesproken hebt tijdens de retrospectives vast op Post-its. Het effectief vastleggen van een werkwijze in een tekening zorgt ervoor dat die gemakkelijker te onthouden is, veroorzaakt goede discussies en zorgt dat het Guide Board makkelijker te lezen is voor het team. Voeg voor iedere sprint een nieuwe kolom toe.
+Leg de werkmethodes en methodiek die je afgesproken hebt tijdens de retrospectives vast op Post-its. Het effectief vastleggen van een werkwijze in een tekening zorgt ervoor dat die gemakkelijker te onthouden is, veroorzaakt goede discussies en zorgt dat het Gids Bord makkelijker te lezen is voor het team. Voeg voor iedere sprint een nieuwe kolom toe.
 
 Als een methodiek of overeenkomst slecht wordt nageleefd, plaats de Post-it dan in de "Onder Observatie" kolom. In de volgende retro evalueer je dan of de werkwijze beter wordt gevolgd en plak je hem terug op de plek waar hij vandaan kwam of sluit je hem met een blauwe Post-it.
 
