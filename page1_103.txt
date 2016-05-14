@@ -6,10 +6,6 @@ Het bord wordt regelmatig nagekeken door de teams, bijvoorbeeld tijdens de Scrum
 
 Het afhankelijkheidsbord kan teams helpen plannen, taken op te delen, noodzakelijke technische samenwerking te voorzien en om alternatieve manieren te vinden om elkaar te helpen.
 
-Update suggestie:
-Eens een rode notitie opgelost is
-Indien een rode notitie opgelost is
-
 --------------------------------------
 
 Dependancy Board
