@@ -11,9 +11,10 @@ Avatars ==> Avatars
 Backlog grooming => Backlog onderhoud
 Board ==> Bord
 Bottleneck ==> Knelpunt
-Boxes ==> vierkantjes
+Boxes ==> Vierkantjes
 Bug ==> Bug
 
+Checkboxes ==> Selectievakjes
 Check-in ==> Check-in
 Code (programmeren) ==> Code
 Code freeze ==> Code freeze
