@@ -16,6 +16,7 @@ Bug ==> Bug
 
 Checkboxes ==> Selectievakjes
 Check-in ==> Check-in
+Checklists ==> Checklists
 Code (programmeren) ==> Code
 Code freeze ==> Code freeze
 Colocated ==> Bijeengeplaats (team)
