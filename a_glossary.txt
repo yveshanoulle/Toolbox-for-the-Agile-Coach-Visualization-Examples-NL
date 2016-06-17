@@ -14,7 +14,7 @@ Bottleneck ==> Knelpunt
 Boxes ==> Vierkantjes of dozen
 Bug ==> Bug
 
-Checkboxes ==> Selectievakjes
+Checkbox ==> Selectievakje
 Check-in ==> Check-in
 Checklists ==> Checklists
 Code (programmeren) ==> Code
