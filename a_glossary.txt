@@ -15,6 +15,7 @@ Boxes ==> Vierkantjes of dozen
 Bug ==> Bug
 
 Checkbox ==> Selectievakje
+--- 
 Check-in ==> Check-in
 Checklists ==> Checklists
 Code (programmeren) ==> Code
