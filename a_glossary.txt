@@ -11,7 +11,7 @@ Avatars ==> Avatars
 Backlog grooming => Backlog onderhoud
 Board ==> Bord
 Bottleneck ==> Knelpunt
-Boxes ==> Vierkantjes
+Boxes ==> Vierkantjes of dozen
 Bug ==> Bug
 
 Checkboxes ==> Selectievakjes
