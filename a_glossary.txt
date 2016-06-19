@@ -19,12 +19,12 @@ Check-in ==> Check-in
 Checklists ==> Checklists
 Code (programming) ==> Code
 Code freeze ==> Code freeze
-Colocated ==> Bijeengeplaats (team)
+Co-located ==> Bijeengeplaats (team)
 Commit ==> Commit
 
 Daily Stand-up ==> Daily Stand-up
-Definition of Done ==> Definitie van Gedaan
-Definition of Ready ==> Definitie van Klaar
+Definition of Done ==> Definition of Done
+Definition of Ready ==> Definition of Ready
 Digital => Digitaal
 Dis-located team -> Verspreid team
 Dotting ==> Stippen
