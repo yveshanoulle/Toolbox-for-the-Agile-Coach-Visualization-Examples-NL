@@ -3,8 +3,8 @@
 In plaats van op een poster een samenvatting te maken van de resultaten van een workshop, of het bijhouden van afspraken op je whiteboard, creëer een fysieke kubus! Op eén zijde kan de naam van de kubus staan, op de andere tekst en afbeeldingen. Een kubus veroorzaakt nieuwsgierigheid! Ik heb mensen gezien die eerder geneigd zijn om een kubus op te pakken, dan om even te stoppen en een poster te lezen.
 
 Voorbeelden van kubussen:
-Bijeenkomsten. Elke kant beschrijft het doel en het resultaat van de verschillende bijeenkomsten (Dagelijkse Stand-Up, Planning, Retrospectieve, etc), alsook de standaard routine van de bijeenkomst.
-Werkafspraken (Definitie van Done, Definitie van Ready, manier van werken of gedragen, enz.).
+Bijeenkomsten. Elke kant beschrijft het doel en het resultaat van de verschillende bijeenkomsten (Daily Stand-Up, Planning, Retrospectieve, etc), alsook de standaard routine van de bijeenkomst.
+Werkafspraken (Definition of Done, Definition of Ready, manier van werken of gedragen, enz.).
 De verwachtingen van de rollen (Scrum Master, Product Owner, Teamlid, Development Manager, etc.).
 
 ------------
