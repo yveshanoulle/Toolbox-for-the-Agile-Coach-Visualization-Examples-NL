@@ -15,10 +15,9 @@ Boxes ==> Vierkantjes of dozen
 Bug ==> Bug
 
 Checkbox ==> Selectievakje
---- 
 Check-in ==> Check-in
 Checklists ==> Checklists
-Code (programmeren) ==> Code
+Code (programming) ==> Code
 Code freeze ==> Code freeze
 Colocated ==> Bijeengeplaats (team)
 Commit ==> Commit
