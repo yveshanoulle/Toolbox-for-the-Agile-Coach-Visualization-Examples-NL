@@ -33,8 +33,9 @@ Epic ==> Epic
 Examples ==> Voorbeelden
 Envelopper Collectors ==> Verzamel-enveloppen
 
-Flipchart --> flip-overs
+Flipcharts --> flip-overs
 Flowglass ==> Flowloper
+---
 
 Hat ==> Pet
 High score ==> High-score
