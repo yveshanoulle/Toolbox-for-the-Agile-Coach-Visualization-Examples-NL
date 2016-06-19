@@ -1,4 +1,7 @@
-Je eigen voorbeelden...
-
+Over de vertalingen:
+We hebben veel gepraat over verschillende vertalingen. Als we er niet uitgeraakt zijn, hebben we gekozen om de originele Engelse agile woorden te behouden. We zijn van oordeel dat onze lezers eerder Definition of Done zullen herkennen dan de verschillende mogelijk vertalingen als daar zijn: defintie van gereed etc. 
+Niet iedereen zal daar mee eens zijn (ook niet in onze groep) maar het is een keuze die we consequent proberen aanhouden hebben. 
 ----
-Your own examples…
+About the translations.
+We have talked a lot about certain translations. When we could not find a great translations, we decided to stick with the original English agile words. We assume our readers will recognize quiker "Definition of Done" then wonky translations.
+We are wel aware that not everyone will agree with this choice (not even in our group) yet it's a choice we tried to be consistent in.
