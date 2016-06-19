@@ -1,10 +1,10 @@
 Voorgedrukte DONE checklists
 
-Een eenvoudige manier om het onthouden van de Definitie van DONE gemakkelijker te maken is om afkijkchecklists af te drukken. Doe ze in een doos of hang ze aan een spijker.
+Een eenvoudige manier om het onthouden van de Definition of DONE gemakkelijker te maken is om afkijkchecklists af te drukken. Doe ze in een doos of hang ze aan een spijker.
 
-Als je begint te werken aan een nieuwe User Story, pak één van de voorgedrukte Definitie van DONE checklists. Naarmate je werk vordert, vink je de vakjes aan.
+Als je begint te werken aan een nieuwe User Story, pak één van de voorgedrukte Definition of DONE checklists. Naarmate je werk vordert, vink je de vakjes aan.
 
-Tip: Druk niet te grote batches af. De Definitie van DONE heeft de neiging om veel te veranderen in de loop der tijd.
+Tip: Druk niet te grote batches af. De Definition of DONE heeft de neiging om veel te veranderen in de loop der tijd.
 
 ---
 
