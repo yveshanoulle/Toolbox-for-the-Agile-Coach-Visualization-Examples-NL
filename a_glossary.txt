@@ -38,9 +38,11 @@ Flowglass ==> Flowloper
 
 Hat ==> Hoed
 High score ==> High-score
----
+
 How great teams visualize their work ==> Hoe uitstekende teams hun werk visualiseren
-Hourglass Scrum Wall ==> Zandlopersprintbord
+Hourglass Scrum Wall ==> Zandloper sprintbord
+
+--
 
 Icon ==> Icoon
 Improvement Lane ==> Verbeterbaan
