@@ -1,23 +1,21 @@
 Meer informatie
 
 Hier zijn links maar artikelen en blogs die een aantal voorbeelden in meer detail uitleggen.
+Daar de artikelen in het Engels zijn, geven we zowel de Nederlandse als de Engelse titels.
 
-################################################################################
-Daar de artikelen in het Engels zijn lijkt het me geen goed idee om het onderstaande te vertalen.
-################################################################################
- Concept Cubes (page 94)
+ Concept Cubes - Concept Kubussen (pagina 94)
 http://conceptcubes.com/
- Confidence Smileys (page 16)
+ Confidence Smileys - Smileys van Vertrouwen (pagina 16)
 http://blog.crisp.se/2015/04/01/jimmyjanlen/the-sprint-burndown-is-dead-long-live-confidence-smileys
- Daily Goals (page 95)
+ Daily Goals - Dagelijkse Doelen (pagina 95)
 http://nomad8.com/daily-stand-up-with-a-goal/
- Guide Board (page 99)
+ Guide Board -  Gids Bord (page 99)
 http://mattischneider.fr/agile/guide-board/
 
-Hourglass Scrum Wall (page 88)
+Hourglass Scrum Wall - Zandloper sprintbord (pagina 88)
 http://www.strongandagile.co.uk/index.php/the-hourglass-scrumban-board/
 
-Improvement Theme (page 63)
+Improvement Theme - Verbeterthema  (pagina 63)
 http://blog.crisp.se/2013/05/14/jimmyjanlen/improvement-theme-simple-and-practical-toyota-kata
 
 
