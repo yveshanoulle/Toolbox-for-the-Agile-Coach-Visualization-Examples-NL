@@ -43,9 +43,10 @@ How great teams visualize their work ==> Hoe uitstekende teams hun werk visualis
 Hourglass Scrum Wall ==> Zandloper sprintbord
 
 Icon ==> Icoon
---
 Improvement Lane ==> Verbeterbaan
 Improvement theme ==> Verbeterthema
+
+--
 Inbox ==> Inbox
 Interruption buckets = Onderbrekingemmer
 
