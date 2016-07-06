@@ -1,5 +1,3 @@
-Bianca Griffioen
-
 Verbeterbaan
 
 Om verbeterpunten uit je retrospectives een natuurlijk onderdeel van je planning en Daily Stand-up te maken, voeg je een Verbeterbaan toe aan je bord.
