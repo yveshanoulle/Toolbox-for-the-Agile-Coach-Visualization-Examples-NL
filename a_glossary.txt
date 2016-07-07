@@ -45,13 +45,11 @@ Hourglass Scrum Wall ==> Zandloper sprintbord
 Icon ==> Icoon
 Improvement Lane ==> Verbeterbaan
 Improvement theme ==> Verbeterthema
-
---
 Inbox ==> Inbox
-Interruption buckets = Onderbrekingemmer
+Interruption buckets = Onderbrekingsemmer
 
 Kudos => Kudos 
-
+--
 Lane ==> Baan 
 Lane priority ==> Baanprioriteit
 LEGO ==> LEGO
