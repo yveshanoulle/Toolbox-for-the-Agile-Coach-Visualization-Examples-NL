@@ -1,13 +1,13 @@
 ﻿Inbox
 
 Worden er regelmatig taken toegevoegd door creatieve teamleden? Word je tijdens de sprint geplaagd door taken die toegevoegd worden door personen/managers van buiten het team die bepaalde teamleden om hulp vragen?
-Saboteert dit de focus op het doel van de sprint? Voeg dan de Inbox-regel toe.
+Saboteert dit de focus op het doel van de sprint? Voeg dan de inbox-regel toe.
 
-Regel: nieuwe taken worden niet toegevoegd in Gepland of Bezig maar in de Inbox.  
+Regel: nieuwe taken worden niet toegevoegd in Gepland of Bezig maar in de inbox.  
 In de volgende stand-up zal het volledige team beslissen of de taak uitgevoerd moet worden of niet, d.w.z. als deze waardevol is, en in lijn met de doelstellingen van de sprint.
 Wanneer het team beslist dat de taak nu niet wordt uitgevoerd, dan gaat deze naar de product backlog of in de prullenbak.
 
-Elke Inbox zou leeg moeten zijn aan het einde van de Daily Stand-up.
+Elke inbox zou leeg moeten zijn aan het einde van de Daily Stand-up.
 
 ---
 Inbox
