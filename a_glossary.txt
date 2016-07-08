@@ -49,11 +49,12 @@ Inbox ==> Inbox
 Interruption buckets = Onderbrekingsemmer
 
 Kudos => Kudos 
---
+
 Lane ==> Baan 
 Lane priority ==> Baanprioriteit
 LEGO ==> LEGO
 
+--
 Meeting => Bijeenkomst
 
 Pain ==> Pijn
