@@ -1,5 +1,3 @@
-Astrid
-
 WIP-limieten
 
 In het bovenstaande voorbeeld heeft een team de Work In Progress (WIP) gelimiteerd in meerdere dimensies. Ze werken maar aan drie stories tegelijkertijd. Wanneer ze een vierde story willen oppakken moet er eerst één afgerond worden. Wanneer "Doing" + "Ready for Test" vol zijn (gezamenlijke limiet van 4) dan mag er geen vijfde taak gestart worden. Het team helpt dan eerst met testen om zo werk verder af te krijgen. Enzovoorts.
