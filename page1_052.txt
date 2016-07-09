@@ -1,5 +1,3 @@
-Astrid
-
 Story Point-lineaal
 
 Om als team beter te worden in het relatief schatten van User Stories, kan je een Story Point-lineaal maken.
