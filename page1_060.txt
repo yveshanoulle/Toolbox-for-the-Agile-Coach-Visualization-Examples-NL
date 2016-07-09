@@ -1,4 +1,3 @@
-Astrid
 
 Daily Stand-Up routine
 
@@ -6,7 +5,7 @@ Maak, in plaats van de gebruikelijke ronde, het doel en de aanpak van de Daily S
 
 Hierdoor wordt het ook makkelijker om de verantwoordelijkheid voor het faciliteren van de Daily Stand-up te rouleren.
 
-Dit zou je natuurlijk ook kunnen doen voor de andere meetings zoals de Sprint Planning, Backlog Onderhoud, Sprint Review, etc.
+Dit zou je natuurlijk ook kunnen doen voor de andere bijeenkomsten zoals de Sprint Planning, Backlog Onderhoud, Sprint Review, etc.
 
 Daily Stand-up Routine
 
