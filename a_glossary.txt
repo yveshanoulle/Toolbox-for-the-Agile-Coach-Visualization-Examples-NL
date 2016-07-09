@@ -54,9 +54,9 @@ Lane ==> Baan
 Lane priority ==> Baanprioriteit
 LEGO ==> LEGO
 
---
 Meeting => Bijeenkomst
 
+--
 Pain ==> Pijn
 Pair programming ==> Pair programming
 Pair Programming Matrix => Pair Programming Matrix
