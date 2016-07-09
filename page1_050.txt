@@ -1,5 +1,3 @@
-Astrid
-
 Voortgangsbalk
 
 Sommige taken komen vast te zitten op de muur, omdat ze een grote brok werk beschrijven of het werk veel meer is dan initieel verwacht. Wanneer dat gebeurt, teken dan een voortgangsbalk op de taak, welke je kunt updaten tijdens de Daily Stand-up.
