@@ -2,7 +2,7 @@ Dagen geblokkeerd (verspild)
 
 Wanneer je Post-it notes gebruikt om een geblokkeerd-status aan te geven, dan kan het handig zijn om bij te houden hoelang deze blokkering al aanwezig is.
 
-Tijdens de Daily Stand-up meeting turf je de extra dag erbij. Het turven herinnert jou en je team eraan dat er actie moet worden genomen op de belemmering of afhankelijkheid. Het aantal vinkjes laat zien hoeveel dagen verspild zijn met wachten op iets of iemand.
+Tijdens de Daily Stand-up turf je de extra dag erbij. Het turven herinnert jou en je team eraan dat er actie moet worden genomen op de belemmering of afhankelijkheid. Het aantal vinkjes laat zien hoeveel dagen verspild zijn met wachten op iets of iemand.
 
 Een groot aantal vinkjes is een uitnodiging tot een serieuze discussie. Waarom lukt het het team niet om de belemmeringen te verwijderen? Hebben ze ondersteuning nodig? Motivatie?
 
