@@ -56,18 +56,21 @@ LEGO ==> LEGO
 
 Meeting => Bijeenkomst
 
---
 Pain ==> Pijn
 Pair programming ==> Pair programming
 Pair Programming Matrix => Pair Programming Matrix
 Pairing ==> Pairing
 Parking Lot ==> Parkeerplaats
-Policies ==> Methodiek 
+
+>>>>Policies ==> Methodiek 
+>>>>te discusieren
+
 Promiscuous Map => Duo kaart
 
 Queue ==> Wachtrij
 
-Race Track  ==> Renbaan p83
+Race Track  ==> Renbaan 
+--
 Retrospective ==> retrospective
 Release Train ==> Release Train
 Roadmap ==> Roadmap
