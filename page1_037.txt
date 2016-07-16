@@ -1,8 +1,6 @@
-﻿Bianca Griffioen
-
 Parkeerplaats met status
 
-Wanneer je een volledige story wilt parkeren, en de bijbehorende tickets naar een Parkeerplaats verplaatst, is het wellicht een goed idee om de status van de taken te bewaren. 
+Wanneer je een volledige story wilt parkeren, en de bijbehorende tickets naar een parkeerplaats verplaatst, is het wellicht een goed idee om de status van de taken te bewaren. 
 
 Dit neemt meer ruimte in beslag, maar dat kan ook worden gebruikt als WIP-limiet. Met andere woorden, op enig moment in de tijd mag er nooit meer dan één story worden geparkeerd. 
 
