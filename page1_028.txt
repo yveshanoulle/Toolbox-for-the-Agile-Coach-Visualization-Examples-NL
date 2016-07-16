@@ -1,6 +1,6 @@
 ﻿Parkeerplaats
 
-Wanneer het team tijdelijk niet meer werkt aan een story (of een specifieke taak pauzeert) vanwege veranderingen in prioriteit, zorg dan dat dit duidelijk en transparant is door de Post-its te verplaatsen naar de Parkeerplaats.
+Wanneer het team tijdelijk niet meer werkt aan een story (of een specifieke taak pauzeert) vanwege veranderingen in prioriteit, zorg dan dat dit duidelijk en transparant is door de Post-its te verplaatsen naar de parkeerplaats.
 
 Verplaatsen van de story/taak vanaf het primaire bord verkleint de kans dat personen per ongeluk werken aan de gepauzeerde taak (met onnodig multitasken tot gevolg).
 
