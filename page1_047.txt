@@ -1,4 +1,4 @@
-﻿Verplaatsbare borden
+Verplaatsbare borden
 
 Het is vrij gebruikelijk dat de planning- en retrospective sessies plaatsvinden in vergaderruimten van waaruit het fysieke bord niet zichtbaar is. Het is ook vrij gebruikelijk dat je het liefst een deel van de muur wilt meenemen naar die sessies.
 
