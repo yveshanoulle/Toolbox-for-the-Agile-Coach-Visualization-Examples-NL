@@ -8,7 +8,7 @@ Vergeet niet te noteren wanneer de story wordt geparkeerd.
 
 Deze aanpak is vooral handig wanneer zich iets urgents voor doet gedurende de sprint waardoor de prioriteiten tijdelijk worden aangepast. 
 
-
+ 
 
 Parking lot with states
 
