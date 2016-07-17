@@ -1,4 +1,4 @@
-﻿Afhankelijkheidsspin
+Afhankelijkheidsspin
 
 Teken een spindiagram met je team in het centrum. Rond je team teken je de afhankelijkheden die je vorderingen blokkeren of je verplichten te wachten op een antwoord. Op de poten van de spin leg je telkens een nota die beschrijft hoe je geblokkeerd, of afhankelijk bent van die bron.
 
