@@ -1,6 +1,6 @@
-﻿Gewoontes van het team
+Gewoontes van het team
 
-Tijdens een retrospective is het gebruikelijk dat nieuwe gewoontes worden afgesproken, of om vanaf nu iets op een andere manier te doen. Als je werkafspraken hebt, dan moet je deze waarschijnlijk aanpassen. Indien je geen werkafspraken hebt (of denkt dat de nieuwe aanpak daar niet past) creëer dan een "Gewoontes Van Het Team"-plek op de muur.
+Tijdens een retrospective is het gebruikelijk dat nieuwe gewoontes worden afgesproken, of om vanaf nu iets op een andere manier te doen. Als je werkafspraken hebt, dan moet je deze waarschijnlijk aanpassen. Indien je geen werkafspraken hebt (of denkt dat de nieuwe richtlijn daar niet past) creëer dan een "Gewoontes Van Het Team"-plek op de muur.
 
 Nieuwe gewoontes die overeengekomen zijn worden op oranje Post-its genoteerd. Zodra ze daadwerkelijk gewoontes zijn geworden, herschrijf je ze op groene Post-its. Als een gewoonte verzand, zet hem weer op een oranje Post-it. Evalueer je gewoontes regelmatig (bijvoorbeeld iedere maand).
 
