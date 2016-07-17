@@ -1,4 +1,4 @@
-﻿Beoordeling Wachtrij
+Beoordeling Wachtrij
 
 Een HR-team waar ik samen mee aan het werken was, had een lange lijst van de wiki-pagina's met een beschrijving van verschillende beleids- en richtlijnen. Ze vermoedden dat veel van deze herzien en geactualiseerd moesten worden. Dus hebben we een beoordeling wachtrij voor richtlijnen gecreëerd. Elke week werd één polis herzien en bijgewerkt. Sommige updates moesten nog goedkeuring van iemand krijgen, dus gingen ze door middel van een "Wachten op akkoord" box. Eenmaal klaar, werd het ticket verplaatst naar het einde van de wachtrij. De volgorde en de inhoud van de wachtrij werd herschikt wanneer nodig.
 
