@@ -69,9 +69,10 @@ Queue ==> Wachtrij
 
 Race Track  ==> Renbaan 
 Retrospective ==> retrospective
-Release Train ==> Release Train
+Release Train ==> Release trein
 Roadmap ==> Roadmap
 
+-- 
 Servant Leader Door ==> Servant Leader Deur
 Stakeholders ==> Stakeholders 
 States ==> statussen
