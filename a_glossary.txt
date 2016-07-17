@@ -72,10 +72,10 @@ Retrospective ==> retrospective
 Release Train ==> Release trein
 Roadmap ==> Roadmap
 
--- 
 Servant Leader Door ==> Servant Leader Deur
 Stakeholders ==> Stakeholders 
 States ==> statussen
+--
 Story ==> Story
 Stories ==> Stories
 Stress level meter ==> stressniveaumeter
