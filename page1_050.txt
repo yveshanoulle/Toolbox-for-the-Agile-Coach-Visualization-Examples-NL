@@ -1,6 +1,6 @@
 Taakvoortgangsbalk
 
-Sommige taken komen vast te zitten op de muur, omdat ze een grote brok werk beschrijven of het werk veel meer is dan initieel verwacht. Wanneer dat gebeurt, teken dan een voortgangsbalk op de taak, welke je kunt updaten tijdens de Daily Stand-up.
+Sommige taken komen vast te zitten op de muur, omdat ze een grote brok werk beschrijven of het werk veel meer is dan initieel verwacht. Wanneer dat gebeurt, teken dan een voortgangsbalk op de taak, welke je kunt bijwerken tijdens de Daily Stand-up.
 
 Wanneer je stippen gebruikt (zie voorbeeld "Stippen") dan kun je hier de volgende werkwijze aan toevoegen: wanneer een taak 2 of meer stippen heeft verzameld, geef de taak dan een voortgangsbalk en bespreek wat er nog nodig is om de taak te voltooien.
 
