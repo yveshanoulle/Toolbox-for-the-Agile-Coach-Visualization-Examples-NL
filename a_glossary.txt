@@ -86,14 +86,13 @@ Toolbox for the Agile Coach ==> Gereedschapskist voor de Agile Coach
 
 
 Update ==> bijwerken
---
-Urgent lane ==> Prioritaire baan 
+Urgent lane ==> Urgentie baan 
 User Stories ==> User Stories
 User Story lane ==> User Story-baan
 
 Visualization ==> Visualisatie
 Visualization Examples ==> Visualisatievoorbeelden
-
+--
 Wall ==> Muur 
 Waste ==> Verspilling
 Whiteboard ==> Whiteboard
