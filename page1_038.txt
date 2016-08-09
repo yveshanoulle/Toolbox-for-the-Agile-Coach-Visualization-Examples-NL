@@ -4,7 +4,7 @@ Heb je je roadmap gevisualiseerd op je muur en wil je de voortgang visualiseren 
 
 Teken een cirkel op de Post-it en vraag "Hoeveel is gedaan?". Vul de taart op basis van het antwoord. Een lege cirkel zou "nog niet begonnen" betekenen. Een volle cirkel "klaar om te leveren".
 
-Dit start natuurlijk discussies over wat er nodig is voor een volle cirkel, wat een goede zaak is! Wanneer nodig: verduidelijk acceptatiecriteria en vervang eventeel de Epic door opgesplitste User Story's.
+Dit start natuurlijk discussies over wat er nodig is voor een volle cirkel, wat een goede zaak is! Wanneer nodig: verduidelijk acceptatiecriteria en vervang eventeel de Epic door opgesplitste User Stories.
 
 ---
 
