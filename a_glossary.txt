@@ -76,8 +76,9 @@ Servant Leader Door ==> Servant Leader Deur
 Stakeholders ==> Stakeholders 
 States ==> statussen
 Story ==> Story
---
+
 Stories ==> Stories
+--
 Stress level meter ==> stressniveaumeter
 
 Task Progress Bar ==> Taakvoortgangsbalk
