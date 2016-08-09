@@ -4,7 +4,7 @@ Wanneer het team tijdelijk niet meer werkt aan een story (of een specifieke taak
 
 Verplaatsen van de story/taak vanaf het primaire bord verkleint de kans dat personen per ongeluk werken aan de gepauzeerde taak (met onnodig multitasken tot gevolg).
 
-Wanneer een story geparkeerd wordt, noteer dan de datum waarop deze geparkeerd werd en wie op dat moment aan de taak werkte.
+Wanneer een story geparkeerd wordt, schrijf dan een parkeer ticket en noteer de datum waarop deze geparkeerd werd en wie op dat moment aan de taak werkte.
 
 --------------------------------------------------------------------------------
 
