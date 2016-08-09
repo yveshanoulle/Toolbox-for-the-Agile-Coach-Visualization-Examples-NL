@@ -5,7 +5,7 @@ Denk je dat je beter wordt in het op tijd starten van je Daily Stand-up? Waarom 
 
 Elke keer wanneer je de Daily Stand-up op tijd start, verhoog dan je "Daily Stand-up op tijd gestart"-score. Wanneer je te laat start, zet je de teller weer op nul. Houd naast de teller, je high-score bij. En als het lukt, bedenk dan een ludieke beloning voor het team voor wanneer de high-score wordt verbroken.
 
-Andere voorbeelden van tellers en high-scores zijn: "We hebben vandaag meer bugs opgelost dan gemeld", "Dagen zonder bug reports", en "Prioritaire baan is leeg aan het eind van de dag".
+Andere voorbeelden van tellers en high-scores zijn: "We hebben vandaag meer bugs opgelost dan gemeld", "Dagen zonder bug reports", en "Urgentie baan is leeg aan het eind van de dag".
 
 
 Stand-ups on time
