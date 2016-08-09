@@ -84,8 +84,9 @@ Template ==> Sjabloon
 Ticket ==> Ticket
 Toolbox for the Agile Coach ==> Gereedschapskist voor de Agile Coach
 
+
+Update ==> bijwerken
 --
-Updaten ==> updaten of bijwerken?
 Urgent lane ==> Prioritaire baan 
 User Stories ==> User Stories
 User Story lane ==> User Story-baan
