@@ -78,12 +78,13 @@ States ==> statussen
 Story ==> Story
 Stories ==> Stories
 Stress level meter ==> stressniveaumeter
--- 
+
 Task Progress Bar ==> Taakvoortgangsbalk
 Template ==> Sjabloon
 Ticket ==> Ticket
 Toolbox for the Agile Coach ==> Gereedschapskist voor de Agile Coach
 
+--
 Updaten ==> updaten of bijwerken?
 Urgent lane ==> Prioritaire baan 
 User Stories ==> User Stories
