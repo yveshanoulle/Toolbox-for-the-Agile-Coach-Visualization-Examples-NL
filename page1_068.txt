@@ -1,8 +1,8 @@
 Out of office
 
-Ik heb teams gezien die een plekje creeëren op het sprintbord om te laten zien waar mensen zijn wanneer ze niet op kantoor zijn.
+Ik heb teams gezien die een plekje creeëren op hun team muur om te laten zien waar mensen zijn wanneer ze niet op kantoor zijn.
 
-Zodra je merkt dat iemand ziek is, buiten kantoor werkt, op vakantie is of gewoon om een bepaalde reden afwezig is, verplaats je de avatar van deze persoon naar die plek.
+Zodra je merkt dat iemand ziek is, buiten kantoor werkt, op vakantie is, VAB (zorgverlof) of gewoon om een bepaalde reden afwezig is, verplaats je de avatar van deze persoon naar die plek.
 
 Je kunt natuurlijk extra informatie toevoegen met een Post-it, bijvoorbeeld wanneer iemand terug is van vakantie.
 
