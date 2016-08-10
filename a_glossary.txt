@@ -92,7 +92,7 @@ User Story lane ==> User Story-baan
 
 Visualization ==> Visualisatie
 Visualization Examples ==> Visualisatievoorbeelden
---
+
 Wall ==> Muur 
 Waste ==> Verspilling
 Whiteboard ==> Whiteboard
