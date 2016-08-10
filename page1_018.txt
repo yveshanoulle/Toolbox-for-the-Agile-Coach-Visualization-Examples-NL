@@ -1,6 +1,6 @@
 ﻿Baanprioriteit
 
-Dit is meer een afspraak dan een visualisatietip.
+Dit is meer een werkafspraak dan een visualisatietip.
 
 Om als team efficiënter te werken, en om te streven naar het afwerken van stories in plaats van een nieuwe te starten, spreek je af om samen te werken aan de stories in volgorde van prioriteit. Zet de taken met de hoogste prioriteit bovenaan en rangschik de rest volgens prioriteit.
 
