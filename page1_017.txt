@@ -4,9 +4,19 @@ Wanneer een smiley van kleur verandert, (van groen naar oranje, of van oranje na
 
 Smileys van Vertrouwen geven een direct en eenvoudig beeld van de vooruitgang van een team, ook voor anderen.
 
+Blije/Groene Smiley = We hebben er vertrouwen in dat  we deze story kunnen opleveren  tegen het einde van de sprint.
+Zeneuwachtige/Oranje Smiley= We  zullen deze story waarschijnlijk niet opleveren. 
+Verdrietige/ Rode smiley= Er is geen enkele kans dat we  deze story gaan opleveren. 
 
 Confidence Smileys (cont)
 
 When a smiley shifts (from green to orange, or from orange to red) the team grabs the opportunity to discuss what they need to do, how they can help out, and if they need to alert Product Owners and Stakeholders on changes in the forecast.
 
 Confidence Smileys offer an instant and simple overview of the team’s sprint progress for anyone else as well.
+
+
+Happy Green Smiley= We are confident that we will be able to finish this story by the end of the sprint
+Nervouw/Orange Smiley= We will probably not be able to finish this story.
+Sad/Red smiley= No way we will be able to finish this story.
+
+
