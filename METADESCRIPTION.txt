@@ -1,1 +1,6 @@
+
+Dit is een boek vol met visualisatievoorbeelden voor agile teams en agile mensen, die werken in software ontwikkeling in ene agile context.
+
+--- 
+
 This is a book filled with visualization examples for agile teams and agile people who are working with software development in an agile context.
