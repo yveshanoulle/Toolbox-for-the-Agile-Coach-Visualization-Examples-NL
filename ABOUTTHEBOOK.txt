@@ -2,7 +2,7 @@ Dit is een boek vol met visualisatievoorbeelden voor teams over het verbeteren v
 
 De pagina's geven alleen voorbeelden weer. Niets meer en niets minder. Geen diepe theoretische uitleg. Geen uitleg van Agile of Scrum. Geen referenties naar Gamification. Geen discussie over hoe de hersenen visuele input interpreteren of hoe onze gedragingen beïnvloed worden door visuele informatie. Er zijn andere boeken geschreven over deze onderwerpen.
 
-Het zou kunnen dat de voorbeelden in dit boek worden gezien als de beste en de enige manieren om dingen te doen. Natuurlijk is dat niet waar. De voorbeelden zijn niet best practice. Het zijn alleen suggesties. Je moet ze aanpassen aan de behoeften en context van je team.
+Het zou kunnen dat de voorbeelden in dit boek worden gezien als de beste en de enige manieren om dingen te doen. Natuurlijk is dat niet waar. De voorbeelden zijn geen best practices. Het zijn alleen suggesties. Je moet ze aanpassen aan de behoeften en context van je team.
 
 Het boek is niet bedoeld om van begin tot eind te lezen. Blader. Spring terug en naar voren. Kies uit wat je leuk vindt. Combineer de ideeën op welke manier je nuttig vindt. Experimenteer en evalueer. Evolueer en gooi weg.
 
