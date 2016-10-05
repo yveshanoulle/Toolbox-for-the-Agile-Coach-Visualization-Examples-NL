@@ -1,3 +1,7 @@
+NL versie
+
+---- 
+
 This book is filled with visualization examples for teams on how to improve collaboration and communication, as well as shaping behaviors. It is written for people and teams working within an agile software development context.
 
 The pages within only depict examples. Nothing else. No deep theoretical explanations. No explanation of Agile or Scrum. No references to Gamification. No discussion on how the brain interprets visual input or how our behaviors are influenced by visual information. There are other books written on those topics.
