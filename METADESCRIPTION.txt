@@ -1,0 +1,1 @@
+This is a book filled with visualization examples for agile teams and agile people who are working with software development in an agile context.
